@@ -15,8 +15,4 @@
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
