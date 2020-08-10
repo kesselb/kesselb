@@ -13,13 +13,6 @@
 - [nextcloud/nextcloud.com](https://github.com/nextcloud/nextcloud.com) - 🌏 Our website (1 month ago)
 - [nextcloud/notifications](https://github.com/nextcloud/notifications) - :bell: Notifications app for Nextcloud (1 month ago)
 
-#### 🌱 My latest projects
-
-- [kesselb/bankleitzahlen](https://github.com/kesselb/bankleitzahlen) - 
-- [kesselb/fefe-feed-io](https://github.com/kesselb/fefe-feed-io) - 
-- [kesselb/nextcloud-dav](https://github.com/kesselb/nextcloud-dav) - 
-- [kesselb/tutorium-15](https://github.com/kesselb/tutorium-15) - 
-
 #### 🔭 Latest releases I've contributed to
 
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.13.0-04](https://github.com/nextcloud/android/releases/tag/rc-3.13.0-04), 3 days ago) - 📱 Nextcloud Android app
@@ -33,11 +26,6 @@
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.2.6](https://github.com/icewind1991/SMB/releases/tag/v3.2.6), 3 weeks ago) - PHP wrapper for smbclient
 - [nextcloud/files_lock](https://github.com/nextcloud/files_lock) ([v0.8.3](https://github.com/nextcloud/files_lock/releases/tag/v0.8.3), 3 weeks ago) - 
 
-#### 📓 Gists I wrote
-
-- [Minimal working example to reproduce a guzzle issue with rss.kicker.de/news/2bundesliga](https://gist.github.com/34a522300f9e1ad772241b4cda66bb85) (5 months ago)
-- [Add \OC::$APPSROOTS to mappings for findWebRoot](https://gist.github.com/d035c4a7334b155143686466370bc1eb) (8 months ago)
-
 #### 👯 Check out some of my recent followers
 
 - [pedro-stanaka](https://github.com/pedro-stanaka)
@@ -45,9 +33,5 @@
 - [cinghaman](https://github.com/cinghaman)
 - [SimJoSt](https://github.com/SimJoSt)
 - [buddh4](https://github.com/buddh4)
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
