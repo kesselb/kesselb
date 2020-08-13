@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (today)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
 - [nextcloud/updater](https://github.com/nextcloud/updater) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date (3 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (3 weeks ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 weeks ago)
 - [nextcloud/providers](https://github.com/nextcloud/providers) - community-maintained list of Nextcloud providers (4 weeks ago)
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (1 month ago)
-- [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 month ago)
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) - PHP wrapper for smbclient (1 month ago)
 - [nextcloud/nextcloud.com](https://github.com/nextcloud/nextcloud.com) - 🌏 Our website (1 month ago)
 - [nextcloud/notifications](https://github.com/nextcloud/notifications) - :bell: Notifications app for Nextcloud (1 month ago)
