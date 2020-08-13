@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v7.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v7.0.0), today) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.0.2](https://github.com/laravel/homestead/releases/tag/v11.0.2), 1 day ago) - 
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.13.0-04](https://github.com/nextcloud/android/releases/tag/rc-3.13.0-04), 6 days ago) - 📱 Nextcloud Android app
 - [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.7](https://github.com/alexdebril/feed-io/releases/tag/v4.7.7), 1 week ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
@@ -24,7 +25,6 @@
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.3.0-02](https://github.com/nextcloud/android-library/releases/tag/rc-2.3.0-02), 2 weeks ago) - ☎️ Nextcloud Android library
 - [JamesHeinrich/getID3](https://github.com/JamesHeinrich/getID3) ([v2.0.0-beta3](https://github.com/JamesHeinrich/getID3/releases/tag/v2.0.0-beta3), 3 weeks ago) - 
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.2.6](https://github.com/icewind1991/SMB/releases/tag/v3.2.6), 3 weeks ago) - PHP wrapper for smbclient
-- [nextcloud/files_lock](https://github.com/nextcloud/files_lock) ([v0.8.3](https://github.com/nextcloud/files_lock/releases/tag/v0.8.3), 3 weeks ago) - 
 
 #### 👯 Check out some of my recent followers
 
