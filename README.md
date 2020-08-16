@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 day ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
-- [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (2 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 days ago)
+- [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (3 days ago)
 - [nextcloud/updater](https://github.com/nextcloud/updater) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date (3 weeks ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 weeks ago)
 - [nextcloud/providers](https://github.com/nextcloud/providers) - community-maintained list of Nextcloud providers (1 month ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v5.0.8](https://github.com/nextcloud/groupfolders/releases/tag/v5.0.8), 2 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
-- [laravel/homestead](https://github.com/laravel/homestead) ([v11.0.2](https://github.com/laravel/homestead/releases/tag/v11.0.2), 3 days ago) - 
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v5.0.8](https://github.com/nextcloud/groupfolders/releases/tag/v5.0.8), 3 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
+- [laravel/homestead](https://github.com/laravel/homestead) ([v11.0.2](https://github.com/laravel/homestead/releases/tag/v11.0.2), 4 days ago) - 
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.13.0-04](https://github.com/nextcloud/android/releases/tag/rc-3.13.0-04), 1 week ago) - 📱 Nextcloud Android app
 - [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.7](https://github.com/alexdebril/feed-io/releases/tag/v4.7.7), 1 week ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v9.0.3](https://github.com/nextcloud/spreed/releases/tag/v9.0.3), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
