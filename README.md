@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.8](https://github.com/alexdebril/feed-io/releases/tag/v4.7.8), today) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v5.0.8](https://github.com/nextcloud/groupfolders/releases/tag/v5.0.8), 4 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.0.2](https://github.com/laravel/homestead/releases/tag/v11.0.2), 5 days ago) - 
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.13.0-04](https://github.com/nextcloud/android/releases/tag/rc-3.13.0-04), 1 week ago) - 📱 Nextcloud Android app
-- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.7](https://github.com/alexdebril/feed-io/releases/tag/v4.7.7), 1 week ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v9.0.3](https://github.com/nextcloud/spreed/releases/tag/v9.0.3), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [humhub/humhub](https://github.com/humhub/humhub) ([v1.6.2](https://github.com/humhub/humhub/releases/tag/v1.6.2), 1 week ago) - HumHub - Open Source Social Network
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.13.1](https://github.com/vimeo/psalm/releases/tag/3.13.1), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
