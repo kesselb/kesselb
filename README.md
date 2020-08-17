@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.14.0](https://github.com/vimeo/psalm/releases/tag/3.14.0), today) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.14.1](https://github.com/vimeo/psalm/releases/tag/3.14.1), today) - A static analysis tool for finding errors in PHP applications
 - [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.8](https://github.com/alexdebril/feed-io/releases/tag/v4.7.8), today) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v5.0.8](https://github.com/nextcloud/groupfolders/releases/tag/v5.0.8), 4 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.0.2](https://github.com/laravel/homestead/releases/tag/v11.0.2), 5 days ago) - 
