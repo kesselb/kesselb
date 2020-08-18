@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.0](https://github.com/nextcloud/desktop/releases/tag/v3.0.0), today) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.0](https://github.com/nextcloud/android/releases/tag/stable-3.13.0), today) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.0](https://github.com/nextcloud/android-library/releases/tag/2.3.0), today) - ☎️ Nextcloud Android library
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.14.1](https://github.com/vimeo/psalm/releases/tag/3.14.1), 1 day ago) - A static analysis tool for finding errors in PHP applications
@@ -24,7 +25,6 @@
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v9.0.3](https://github.com/nextcloud/spreed/releases/tag/v9.0.3), 2 weeks ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [humhub/humhub](https://github.com/humhub/humhub) ([v1.6.2](https://github.com/humhub/humhub/releases/tag/v1.6.2), 2 weeks ago) - HumHub - Open Source Social Network
 - [JamesHeinrich/getID3](https://github.com/JamesHeinrich/getID3) ([v2.0.0-beta3](https://github.com/JamesHeinrich/getID3/releases/tag/v2.0.0-beta3), 4 weeks ago) - 
-- [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.2.6](https://github.com/icewind1991/SMB/releases/tag/v3.2.6), 4 weeks ago) - PHP wrapper for smbclient
 
 #### 👯 Check out some of my recent followers
 
