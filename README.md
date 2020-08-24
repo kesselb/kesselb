@@ -28,10 +28,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [pollypolly1](https://github.com/pollypolly1)
 - [pedro-stanaka](https://github.com/pedro-stanaka)
 - [Githopp192](https://github.com/Githopp192)
 - [cinghaman](https://github.com/cinghaman)
 - [SimJoSt](https://github.com/SimJoSt)
-- [buddh4](https://github.com/buddh4)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
