@@ -15,15 +15,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.14.2](https://github.com/vimeo/psalm/releases/tag/3.14.2), 2 days ago) - A static analysis tool for finding errors in PHP applications
-- [laravel/homestead](https://github.com/laravel/homestead) ([v11.1.2](https://github.com/laravel/homestead/releases/tag/v11.1.2), 6 days ago) - 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.0](https://github.com/nextcloud/desktop/releases/tag/v3.0.0), 6 days ago) - 💻 Desktop sync client for Nextcloud
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.0](https://github.com/nextcloud/android/releases/tag/stable-3.13.0), 6 days ago) - 📱 Nextcloud Android app
-- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.0](https://github.com/nextcloud/android-library/releases/tag/2.3.0), 6 days ago) - ☎️ Nextcloud Android library
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.14.2](https://github.com/vimeo/psalm/releases/tag/3.14.2), 3 days ago) - A static analysis tool for finding errors in PHP applications
+- [laravel/homestead](https://github.com/laravel/homestead) ([v11.1.2](https://github.com/laravel/homestead/releases/tag/v11.1.2), 1 week ago) - 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.0](https://github.com/nextcloud/desktop/releases/tag/v3.0.0), 1 week ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.0](https://github.com/nextcloud/android/releases/tag/stable-3.13.0), 1 week ago) - 📱 Nextcloud Android app
+- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.0](https://github.com/nextcloud/android-library/releases/tag/2.3.0), 1 week ago) - ☎️ Nextcloud Android library
 - [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.8](https://github.com/alexdebril/feed-io/releases/tag/v4.7.8), 1 week ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v5.0.8](https://github.com/nextcloud/groupfolders/releases/tag/v5.0.8), 1 week ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v9.0.3](https://github.com/nextcloud/spreed/releases/tag/v9.0.3), 2 weeks ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
-- [humhub/humhub](https://github.com/humhub/humhub) ([v1.6.2](https://github.com/humhub/humhub/releases/tag/v1.6.2), 2 weeks ago) - HumHub - Open Source Social Network
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v9.0.3](https://github.com/nextcloud/spreed/releases/tag/v9.0.3), 3 weeks ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
+- [humhub/humhub](https://github.com/humhub/humhub) ([v1.6.2](https://github.com/humhub/humhub/releases/tag/v1.6.2), 3 weeks ago) - HumHub - Open Source Social Network
 - [JamesHeinrich/getID3](https://github.com/JamesHeinrich/getID3) ([v2.0.0-beta3](https://github.com/JamesHeinrich/getID3/releases/tag/v2.0.0-beta3), 1 month ago) - 
 
 #### 👯 Check out some of my recent followers
