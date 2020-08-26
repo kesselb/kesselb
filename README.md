@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.14.2](https://github.com/vimeo/psalm/releases/tag/3.14.2), 3 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.14.2](https://github.com/vimeo/psalm/releases/tag/3.14.2), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.1.2](https://github.com/laravel/homestead/releases/tag/v11.1.2), 1 week ago) - 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.0](https://github.com/nextcloud/desktop/releases/tag/v3.0.0), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.0](https://github.com/nextcloud/android/releases/tag/stable-3.13.0), 1 week ago) - 📱 Nextcloud Android app
