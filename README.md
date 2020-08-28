@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 week ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 week ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 weeks ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 weeks ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (2 weeks ago)
 - [nextcloud/updater](https://github.com/nextcloud/updater) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date (1 month ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 month ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.14.2](https://github.com/vimeo/psalm/releases/tag/3.14.2), 5 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.14.2](https://github.com/vimeo/psalm/releases/tag/3.14.2), 6 days ago) - A static analysis tool for finding errors in PHP applications
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.1.2](https://github.com/laravel/homestead/releases/tag/v11.1.2), 1 week ago) - 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.0](https://github.com/nextcloud/desktop/releases/tag/v3.0.0), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.0](https://github.com/nextcloud/android/releases/tag/stable-3.13.0), 1 week ago) - 📱 Nextcloud Android app
