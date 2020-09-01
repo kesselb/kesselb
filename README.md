@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 weeks ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (today)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 weeks ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 weeks ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (2 weeks ago)
 - [nextcloud/updater](https://github.com/nextcloud/updater) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date (1 month ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 month ago)
 - [nextcloud/providers](https://github.com/nextcloud/providers) - community-maintained list of Nextcloud providers (1 month ago)
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (1 month ago)
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) - PHP wrapper for smbclient (2 months ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/news](https://github.com/nextcloud/news) ([14.2.0](https://github.com/nextcloud/news/releases/tag/14.2.0), 2 days ago) - :newspaper: RSS/Atom feed reader
+- [nextcloud/news](https://github.com/nextcloud/news) ([14.2.1](https://github.com/nextcloud/news/releases/tag/14.2.1), today) - :newspaper: RSS/Atom feed reader
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.1](https://github.com/nextcloud/desktop/releases/tag/v3.0.1), 4 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-beta.1](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-beta.1), 4 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.14.2](https://github.com/vimeo/psalm/releases/tag/3.14.2), 1 week ago) - A static analysis tool for finding errors in PHP applications
