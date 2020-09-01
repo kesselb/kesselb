@@ -15,6 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/deck](https://github.com/nextcloud/deck) ([v1.1.0-beta1](https://github.com/nextcloud/deck/releases/tag/v1.1.0-beta1), today) - 🗂 Kanban-style project &amp; personal management tool for Nextcloud, similar to Trello
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.0.0), today) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/news](https://github.com/nextcloud/news) ([14.2.1](https://github.com/nextcloud/news/releases/tag/14.2.1), today) - :newspaper: RSS/Atom feed reader
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.1](https://github.com/nextcloud/desktop/releases/tag/v3.0.1), 4 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-beta.1](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-beta.1), 4 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
@@ -23,8 +25,6 @@
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.0](https://github.com/nextcloud/android/releases/tag/stable-3.13.0), 2 weeks ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.0](https://github.com/nextcloud/android-library/releases/tag/2.3.0), 2 weeks ago) - ☎️ Nextcloud Android library
 - [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.8](https://github.com/alexdebril/feed-io/releases/tag/v4.7.8), 2 weeks ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v5.0.8](https://github.com/nextcloud/groupfolders/releases/tag/v5.0.8), 2 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
-- [humhub/humhub](https://github.com/humhub/humhub) ([v1.6.2](https://github.com/humhub/humhub/releases/tag/v1.6.2), 4 weeks ago) - HumHub - Open Source Social Network
 
 #### 👯 Check out some of my recent followers
 
