@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/news](https://github.com/nextcloud/news) ([14.2.2](https://github.com/nextcloud/news/releases/tag/14.2.2), today) - :newspaper: RSS/Atom feed reader
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.15](https://github.com/vimeo/psalm/releases/tag/3.15), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.0.0), 1 day ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
-- [nextcloud/news](https://github.com/nextcloud/news) ([14.2.1](https://github.com/nextcloud/news/releases/tag/14.2.1), 1 day ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.1](https://github.com/nextcloud/desktop/releases/tag/v3.0.1), 5 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-beta.1](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-beta.1), 5 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.1.2](https://github.com/laravel/homestead/releases/tag/v11.1.2), 2 weeks ago) - 
