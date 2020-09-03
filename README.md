@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/files_accesscontrol](https://github.com/nextcloud/files_accesscontrol) ([v1.10.0](https://github.com/nextcloud/files_accesscontrol/releases/tag/v1.10.0), today) - 🚫 App to manage access control for files
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-beta.2](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-beta.2), today) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.2.7](https://github.com/icewind1991/SMB/releases/tag/v3.2.7), today) - PHP wrapper for smbclient
 - [nextcloud/news](https://github.com/nextcloud/news) ([14.2.2](https://github.com/nextcloud/news/releases/tag/14.2.2), 1 day ago) - :newspaper: RSS/Atom feed reader
@@ -24,7 +25,6 @@
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.1.2](https://github.com/laravel/homestead/releases/tag/v11.1.2), 2 weeks ago) - 
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.0](https://github.com/nextcloud/android/releases/tag/stable-3.13.0), 2 weeks ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.0](https://github.com/nextcloud/android-library/releases/tag/2.3.0), 2 weeks ago) - ☎️ Nextcloud Android library
-- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.8](https://github.com/alexdebril/feed-io/releases/tag/v4.7.8), 2 weeks ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 
 #### 👯 Check out some of my recent followers
 
