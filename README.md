@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.3.1-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.3.1-01), today) - ☎️ Nextcloud Android library
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.1.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.1.0), 1 day ago) - Standalone signaling server for Nextcloud Talk.
 - [nextcloud/files_accesscontrol](https://github.com/nextcloud/files_accesscontrol) ([v1.10.0](https://github.com/nextcloud/files_accesscontrol/releases/tag/v1.10.0), 5 days ago) - 🚫 App to manage access control for files
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-beta.2](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-beta.2), 5 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
@@ -24,7 +25,6 @@
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.0.0), 1 week ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.1](https://github.com/nextcloud/desktop/releases/tag/v3.0.1), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.1.2](https://github.com/laravel/homestead/releases/tag/v11.1.2), 3 weeks ago) - 
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.0](https://github.com/nextcloud/android/releases/tag/stable-3.13.0), 3 weeks ago) - 📱 Nextcloud Android app
 
 #### 👯 Check out some of my recent followers
 
