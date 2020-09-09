@@ -15,7 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-57](https://github.com/nextcloud/docker-ci/releases/tag/android-57), today) - :package: Containers used for Continous Integration jobs (automated testing)
+- [humhub/humhub](https://github.com/humhub/humhub) ([v1.6.3](https://github.com/humhub/humhub/releases/tag/v1.6.3), today) - HumHub - Open Source Social Network
+- [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-58](https://github.com/nextcloud/docker-ci/releases/tag/android-58), today) - :package: Containers used for Continous Integration jobs (automated testing)
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.13.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.13.1-01), 1 day ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.3.1-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.3.1-01), 1 day ago) - ☎️ Nextcloud Android library
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.1.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.1.0), 2 days ago) - Standalone signaling server for Nextcloud Talk.
@@ -24,7 +25,6 @@
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.2.7](https://github.com/icewind1991/SMB/releases/tag/v3.2.7), 6 days ago) - PHP wrapper for smbclient
 - [nextcloud/news](https://github.com/nextcloud/news) ([14.2.2](https://github.com/nextcloud/news/releases/tag/14.2.2), 1 week ago) - :newspaper: RSS/Atom feed reader
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.15](https://github.com/vimeo/psalm/releases/tag/3.15), 1 week ago) - A static analysis tool for finding errors in PHP applications
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.0.0), 1 week ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 
 #### 👯 Check out some of my recent followers
 
