@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/guests](https://github.com/nextcloud/guests) - 🙈 Create guest users which can only see files shared with them (today)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (4 days ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 week ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 week ago)
@@ -11,7 +12,6 @@
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (2 months ago)
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) - PHP wrapper for smbclient (2 months ago)
 - [nextcloud/nextcloud.com](https://github.com/nextcloud/nextcloud.com) - 🌏 Our website (2 months ago)
-- [nextcloud/notifications](https://github.com/nextcloud/notifications) - :bell: Notifications app for Nextcloud (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
