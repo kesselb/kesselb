@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/homestead](https://github.com/laravel/homestead) ([v10.13.0](https://github.com/laravel/homestead/releases/tag/v10.13.0), 1 day ago) - 
+- [laravel/homestead](https://github.com/laravel/homestead) ([v10.13.1](https://github.com/laravel/homestead/releases/tag/v10.13.1), today) - 
 - [humhub/humhub](https://github.com/humhub/humhub) ([v1.6.3](https://github.com/humhub/humhub/releases/tag/v1.6.3), 5 days ago) - HumHub - Open Source Social Network
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-58](https://github.com/nextcloud/docker-ci/releases/tag/android-58), 5 days ago) - :package: Containers used for Continous Integration jobs (automated testing)
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.13.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.13.1-01), 6 days ago) - 📱 Nextcloud Android app
