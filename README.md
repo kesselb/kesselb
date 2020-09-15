@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.16](https://github.com/vimeo/psalm/releases/tag/3.16), today) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.1](https://github.com/nextcloud/android/releases/tag/stable-3.13.1), today) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.1](https://github.com/nextcloud/android-library/releases/tag/2.3.1), today) - ☎️ Nextcloud Android library
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.2.2](https://github.com/laravel/homestead/releases/tag/v11.2.2), 1 day ago) - 
@@ -24,7 +25,6 @@
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-beta.2](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-beta.2), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.2.7](https://github.com/icewind1991/SMB/releases/tag/v3.2.7), 1 week ago) - PHP wrapper for smbclient
 - [nextcloud/news](https://github.com/nextcloud/news) ([14.2.2](https://github.com/nextcloud/news/releases/tag/14.2.2), 1 week ago) - :newspaper: RSS/Atom feed reader
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.15](https://github.com/vimeo/psalm/releases/tag/3.15), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 
 #### 👯 Check out some of my recent followers
 
