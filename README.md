@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.1](https://github.com/nextcloud/android/releases/tag/stable-3.13.1), today) - 📱 Nextcloud Android app
+- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.1](https://github.com/nextcloud/android-library/releases/tag/2.3.1), today) - ☎️ Nextcloud Android library
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.2.2](https://github.com/laravel/homestead/releases/tag/v11.2.2), 1 day ago) - 
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-58](https://github.com/nextcloud/docker-ci/releases/tag/android-58), 6 days ago) - :package: Containers used for Continous Integration jobs (automated testing)
-- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.13.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.13.1-01), 1 week ago) - 📱 Nextcloud Android app
-- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.3.1-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.3.1-01), 1 week ago) - ☎️ Nextcloud Android library
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.1.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.1.0), 1 week ago) - Standalone signaling server for Nextcloud Talk.
 - [nextcloud/files_accesscontrol](https://github.com/nextcloud/files_accesscontrol) ([v1.10.0](https://github.com/nextcloud/files_accesscontrol/releases/tag/v1.10.0), 1 week ago) - 🚫 App to manage access control for files
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-beta.2](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-beta.2), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
