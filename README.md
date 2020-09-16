@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/guests](https://github.com/nextcloud/guests) - 🙈 Create guest users which can only see files shared with them (4 days ago)
+- [nextcloud/guests](https://github.com/nextcloud/guests) - 🙈 Create guest users which can only see files shared with them (5 days ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 week ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (2 weeks ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 weeks ago)
@@ -15,16 +15,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.16](https://github.com/vimeo/psalm/releases/tag/3.16), today) - A static analysis tool for finding errors in PHP applications
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.1](https://github.com/nextcloud/android/releases/tag/stable-3.13.1), today) - 📱 Nextcloud Android app
-- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.1](https://github.com/nextcloud/android-library/releases/tag/2.3.1), today) - ☎️ Nextcloud Android library
-- [laravel/homestead](https://github.com/laravel/homestead) ([v11.2.2](https://github.com/laravel/homestead/releases/tag/v11.2.2), 1 day ago) - 
-- [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-58](https://github.com/nextcloud/docker-ci/releases/tag/android-58), 6 days ago) - :package: Containers used for Continous Integration jobs (automated testing)
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.16](https://github.com/vimeo/psalm/releases/tag/3.16), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.1](https://github.com/nextcloud/android/releases/tag/stable-3.13.1), 1 day ago) - 📱 Nextcloud Android app
+- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.1](https://github.com/nextcloud/android-library/releases/tag/2.3.1), 1 day ago) - ☎️ Nextcloud Android library
+- [laravel/homestead](https://github.com/laravel/homestead) ([v11.2.2](https://github.com/laravel/homestead/releases/tag/v11.2.2), 2 days ago) - 
+- [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-58](https://github.com/nextcloud/docker-ci/releases/tag/android-58), 1 week ago) - :package: Containers used for Continous Integration jobs (automated testing)
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.1.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.1.0), 1 week ago) - Standalone signaling server for Nextcloud Talk.
 - [nextcloud/files_accesscontrol](https://github.com/nextcloud/files_accesscontrol) ([v1.10.0](https://github.com/nextcloud/files_accesscontrol/releases/tag/v1.10.0), 1 week ago) - 🚫 App to manage access control for files
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-beta.2](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-beta.2), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.2.7](https://github.com/icewind1991/SMB/releases/tag/v3.2.7), 1 week ago) - PHP wrapper for smbclient
-- [nextcloud/news](https://github.com/nextcloud/news) ([14.2.2](https://github.com/nextcloud/news/releases/tag/14.2.2), 1 week ago) - :newspaper: RSS/Atom feed reader
+- [nextcloud/news](https://github.com/nextcloud/news) ([14.2.2](https://github.com/nextcloud/news/releases/tag/14.2.2), 2 weeks ago) - :newspaper: RSS/Atom feed reader
 
 #### 👯 Check out some of my recent followers
 
