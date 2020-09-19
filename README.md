@@ -15,7 +15,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/deck](https://github.com/nextcloud/deck) ([v1.1.0-beta2](https://github.com/nextcloud/deck/releases/tag/v1.1.0-beta2), 2 days ago) - 🗂 Kanban-style project &amp; personal management tool for Nextcloud, similar to Trello
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-rc.1](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-rc.1), 2 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.16](https://github.com/vimeo/psalm/releases/tag/3.16), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.1](https://github.com/nextcloud/android/releases/tag/stable-3.13.1), 4 days ago) - 📱 Nextcloud Android app
@@ -25,6 +24,7 @@
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.1.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.1.0), 1 week ago) - Standalone signaling server for Nextcloud Talk.
 - [nextcloud/files_accesscontrol](https://github.com/nextcloud/files_accesscontrol) ([v1.10.0](https://github.com/nextcloud/files_accesscontrol/releases/tag/v1.10.0), 2 weeks ago) - 🚫 App to manage access control for files
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.2.7](https://github.com/icewind1991/SMB/releases/tag/v3.2.7), 2 weeks ago) - PHP wrapper for smbclient
+- [nextcloud/news](https://github.com/nextcloud/news) ([14.2.2](https://github.com/nextcloud/news/releases/tag/14.2.2), 2 weeks ago) - :newspaper: RSS/Atom feed reader
 
 #### 👯 Check out some of my recent followers
 
