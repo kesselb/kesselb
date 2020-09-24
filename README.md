@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-rc.2](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-rc.2), today) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.2](https://github.com/nextcloud/desktop/releases/tag/v3.0.2), today) - 💻 Desktop sync client for Nextcloud
 - [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.9](https://github.com/alexdebril/feed-io/releases/tag/v4.7.9), 3 days ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-rc.1](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-rc.1), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.16](https://github.com/vimeo/psalm/releases/tag/3.16), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.1](https://github.com/nextcloud/android/releases/tag/stable-3.13.1), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.1](https://github.com/nextcloud/android-library/releases/tag/2.3.1), 1 week ago) - ☎️ Nextcloud Android library
