@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.3](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.3), today) - Integrate Keeweb into Nextcloud
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-rc.2](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-rc.2), 3 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.2](https://github.com/nextcloud/desktop/releases/tag/v3.0.2), 3 days ago) - 💻 Desktop sync client for Nextcloud
 - [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.9](https://github.com/alexdebril/feed-io/releases/tag/v4.7.9), 6 days ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
@@ -24,7 +25,6 @@
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.2.2](https://github.com/laravel/homestead/releases/tag/v11.2.2), 1 week ago) - 
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-58](https://github.com/nextcloud/docker-ci/releases/tag/android-58), 2 weeks ago) - :package: Containers used for Continous Integration jobs (automated testing)
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.1.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.1.0), 2 weeks ago) - Standalone signaling server for Nextcloud Talk.
-- [nextcloud/files_accesscontrol](https://github.com/nextcloud/files_accesscontrol) ([v1.10.0](https://github.com/nextcloud/files_accesscontrol/releases/tag/v1.10.0), 3 weeks ago) - 🚫 App to manage access control for files
 
 #### 👯 Check out some of my recent followers
 
