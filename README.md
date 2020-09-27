@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (today)
-- [nextcloud/text](https://github.com/nextcloud/text) - 📑 Collaborative document editing using Markdown (5 days ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 day ago)
+- [nextcloud/text](https://github.com/nextcloud/text) - 📑 Collaborative document editing using Markdown (6 days ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 week ago)
 - [nextcloud/guests](https://github.com/nextcloud/guests) - 🙈 Create guest users which can only see files shared with them (2 weeks ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 weeks ago)
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-rc.2](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-rc.2), 2 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.2](https://github.com/nextcloud/desktop/releases/tag/v3.0.2), 2 days ago) - 💻 Desktop sync client for Nextcloud
-- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.9](https://github.com/alexdebril/feed-io/releases/tag/v4.7.9), 5 days ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-rc.2](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-rc.2), 3 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.2](https://github.com/nextcloud/desktop/releases/tag/v3.0.2), 3 days ago) - 💻 Desktop sync client for Nextcloud
+- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.9](https://github.com/alexdebril/feed-io/releases/tag/v4.7.9), 6 days ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.16](https://github.com/vimeo/psalm/releases/tag/3.16), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.1](https://github.com/nextcloud/android/releases/tag/stable-3.13.1), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.1](https://github.com/nextcloud/android-library/releases/tag/2.3.1), 1 week ago) - ☎️ Nextcloud Android library
