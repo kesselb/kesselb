@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.0](https://github.com/nextcloud/news/releases/tag/15.0.0), today) - :newspaper: RSS/Atom feed reader
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.3](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.3), 3 days ago) - Integrate Keeweb into Nextcloud
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0-rc.2](https://github.com/nextcloud/spreed/releases/tag/v10.0.0-rc.2), 6 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.2](https://github.com/nextcloud/desktop/releases/tag/v3.0.2), 6 days ago) - 💻 Desktop sync client for Nextcloud
@@ -24,7 +25,6 @@
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.1](https://github.com/nextcloud/android-library/releases/tag/2.3.1), 2 weeks ago) - ☎️ Nextcloud Android library
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.2.2](https://github.com/laravel/homestead/releases/tag/v11.2.2), 2 weeks ago) - 
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-58](https://github.com/nextcloud/docker-ci/releases/tag/android-58), 3 weeks ago) - :package: Containers used for Continous Integration jobs (automated testing)
-- [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.1.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.1.0), 3 weeks ago) - Standalone signaling server for Nextcloud Talk.
 
 #### 👯 Check out some of my recent followers
 
