@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (today)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (5 days ago)
 - [nextcloud/text](https://github.com/nextcloud/text) - 📑 Collaborative document editing using Markdown (1 week ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 week ago)
@@ -11,7 +12,6 @@
 - [nextcloud/updater](https://github.com/nextcloud/updater) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date (2 months ago)
 - [nextcloud/providers](https://github.com/nextcloud/providers) - community-maintained list of Nextcloud providers (2 months ago)
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (2 months ago)
-- [icewind1991/SMB](https://github.com/icewind1991/SMB) - PHP wrapper for smbclient (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
