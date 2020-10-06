@@ -4,12 +4,12 @@
 
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (today)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (2 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 days ago)
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app (4 days ago)
 - [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media (5 days ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (5 days ago)
 - [nextcloud/text](https://github.com/nextcloud/text) - 📑 Collaborative document editing using Markdown (2 weeks ago)
 - [nextcloud/guests](https://github.com/nextcloud/guests) - 🙈 Create guest users which can only see files shared with them (3 weeks ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 month ago)
 - [nextcloud/updater](https://github.com/nextcloud/updater) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date (2 months ago)
 
