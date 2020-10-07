@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.1.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.1.0), today) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.0.2](https://github.com/nextcloud/news/releases/tag/15.0.2), 3 days ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.0](https://github.com/nextcloud/server/releases/tag/v20.0.0), 4 days ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0](https://github.com/nextcloud/spreed/releases/tag/v10.0.0), 5 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
@@ -24,7 +25,6 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.16](https://github.com/vimeo/psalm/releases/tag/3.16), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.1](https://github.com/nextcloud/android/releases/tag/stable-3.13.1), 3 weeks ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.3.1](https://github.com/nextcloud/android-library/releases/tag/2.3.1), 3 weeks ago) - ☎️ Nextcloud Android library
-- [laravel/homestead](https://github.com/laravel/homestead) ([v11.2.2](https://github.com/laravel/homestead/releases/tag/v11.2.2), 3 weeks ago) - 
 
 #### 👯 Check out some of my recent followers
 
