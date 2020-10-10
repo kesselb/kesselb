@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/homestead](https://github.com/laravel/homestead) ([v11.2.3](https://github.com/laravel/homestead/releases/tag/v11.2.3), today) - 
+- [laravel/homestead](https://github.com/laravel/homestead) ([v11.2.4](https://github.com/laravel/homestead/releases/tag/v11.2.4), today) - 
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.0.4](https://github.com/nextcloud/news/releases/tag/15.0.4), today) - :newspaper: RSS/Atom feed reader
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.0](https://github.com/nextcloud/guests/releases/tag/v1.6.0), 3 days ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.1.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.1.0), 3 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
