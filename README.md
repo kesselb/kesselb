@@ -15,7 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.3](https://github.com/nextcloud/news/releases/tag/15.0.3), 2 days ago) - :newspaper: RSS/Atom feed reader
+- [laravel/homestead](https://github.com/laravel/homestead) ([v11.2.3](https://github.com/laravel/homestead/releases/tag/v11.2.3), today) - 
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.4](https://github.com/nextcloud/news/releases/tag/15.0.4), today) - :newspaper: RSS/Atom feed reader
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.0](https://github.com/nextcloud/guests/releases/tag/v1.6.0), 3 days ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.1.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.1.0), 3 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.0](https://github.com/nextcloud/server/releases/tag/v20.0.0), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
@@ -24,7 +25,6 @@
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.3](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.3), 1 week ago) - Integrate Keeweb into Nextcloud
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.2](https://github.com/nextcloud/desktop/releases/tag/v3.0.2), 2 weeks ago) - 💻 Desktop sync client for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.16](https://github.com/vimeo/psalm/releases/tag/3.16), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.13.1](https://github.com/nextcloud/android/releases/tag/stable-3.13.1), 3 weeks ago) - 📱 Nextcloud Android app
 
 #### 👯 Check out some of my recent followers
 
