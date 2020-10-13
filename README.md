@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/deck](https://github.com/nextcloud/deck) ([v1.1.1](https://github.com/nextcloud/deck/releases/tag/v1.1.1), today) - 🗂 Kanban-style project &amp; personal management tool for Nextcloud, similar to Trello
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.17.1](https://github.com/vimeo/psalm/releases/tag/3.17.1), today) - A static analysis tool for finding errors in PHP applications
 - [laravel/homestead](https://github.com/laravel/homestead) ([v10.14.0](https://github.com/laravel/homestead/releases/tag/v10.14.0), 2 days ago) - 
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([server-21](https://github.com/nextcloud/docker-ci/releases/tag/server-21), 3 days ago) - :package: Containers used for Continous Integration jobs (automated testing)
@@ -24,7 +25,6 @@
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.0](https://github.com/nextcloud/server/releases/tag/v20.0.0), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0](https://github.com/nextcloud/spreed/releases/tag/v10.0.0), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.10](https://github.com/alexdebril/feed-io/releases/tag/v4.7.10), 1 week ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
-- [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.3](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.3), 2 weeks ago) - Integrate Keeweb into Nextcloud
 
 #### 👯 Check out some of my recent followers
 
