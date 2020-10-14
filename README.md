@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.5](https://github.com/nextcloud/news/releases/tag/15.0.5), today) - :newspaper: RSS/Atom feed reader
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([3.17.1](https://github.com/vimeo/psalm/releases/tag/3.17.1), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [laravel/homestead](https://github.com/laravel/homestead) ([v10.14.0](https://github.com/laravel/homestead/releases/tag/v10.14.0), 3 days ago) - 
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([server-21](https://github.com/nextcloud/docker-ci/releases/tag/server-21), 4 days ago) - :package: Containers used for Continous Integration jobs (automated testing)
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.4](https://github.com/nextcloud/news/releases/tag/15.0.4), 4 days ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.0](https://github.com/nextcloud/guests/releases/tag/v1.6.0), 1 week ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.1.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.1.0), 1 week ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.0](https://github.com/nextcloud/server/releases/tag/v20.0.0), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
