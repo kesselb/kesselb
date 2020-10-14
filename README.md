@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 day ago)
-- [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (6 days ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (6 days ago)
+- [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (2 days ago)
+- [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (1 week ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 week ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 week ago)
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app (1 week ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (1 week ago)
@@ -15,16 +15,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/deck](https://github.com/nextcloud/deck) ([v1.1.1](https://github.com/nextcloud/deck/releases/tag/v1.1.1), today) - 🗂 Kanban-style project &amp; personal management tool for Nextcloud, similar to Trello
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.17.1](https://github.com/vimeo/psalm/releases/tag/3.17.1), today) - A static analysis tool for finding errors in PHP applications
-- [laravel/homestead](https://github.com/laravel/homestead) ([v10.14.0](https://github.com/laravel/homestead/releases/tag/v10.14.0), 2 days ago) - 
-- [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([server-21](https://github.com/nextcloud/docker-ci/releases/tag/server-21), 3 days ago) - :package: Containers used for Continous Integration jobs (automated testing)
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.4](https://github.com/nextcloud/news/releases/tag/15.0.4), 3 days ago) - :newspaper: RSS/Atom feed reader
-- [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.0](https://github.com/nextcloud/guests/releases/tag/v1.6.0), 6 days ago) - 🙈 Create guest users which can only see files shared with them
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.1.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.1.0), 6 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
+- [nextcloud/deck](https://github.com/nextcloud/deck) ([v1.1.1](https://github.com/nextcloud/deck/releases/tag/v1.1.1), 1 day ago) - 🗂 Kanban-style project &amp; personal management tool for Nextcloud, similar to Trello
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.17.1](https://github.com/vimeo/psalm/releases/tag/3.17.1), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [laravel/homestead](https://github.com/laravel/homestead) ([v10.14.0](https://github.com/laravel/homestead/releases/tag/v10.14.0), 3 days ago) - 
+- [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([server-21](https://github.com/nextcloud/docker-ci/releases/tag/server-21), 4 days ago) - :package: Containers used for Continous Integration jobs (automated testing)
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.4](https://github.com/nextcloud/news/releases/tag/15.0.4), 4 days ago) - :newspaper: RSS/Atom feed reader
+- [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.0](https://github.com/nextcloud/guests/releases/tag/v1.6.0), 1 week ago) - 🙈 Create guest users which can only see files shared with them
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.1.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.1.0), 1 week ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.0](https://github.com/nextcloud/server/releases/tag/v20.0.0), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.0](https://github.com/nextcloud/spreed/releases/tag/v10.0.0), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
-- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.10](https://github.com/alexdebril/feed-io/releases/tag/v4.7.10), 1 week ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
+- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.10](https://github.com/alexdebril/feed-io/releases/tag/v4.7.10), 2 weeks ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 
 #### 👯 Check out some of my recent followers
 
