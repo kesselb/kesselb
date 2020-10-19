@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.17.2](https://github.com/vimeo/psalm/releases/tag/3.17.2), 4 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.0.0-beta2](https://github.com/vimeo/psalm/releases/tag/4.0.0-beta2), today) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.0.5](https://github.com/nextcloud/news/releases/tag/15.0.5), 5 days ago) - :newspaper: RSS/Atom feed reader
 - [laravel/homestead](https://github.com/laravel/homestead) ([v10.14.0](https://github.com/laravel/homestead/releases/tag/v10.14.0), 1 week ago) - 
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([server-21](https://github.com/nextcloud/docker-ci/releases/tag/server-21), 1 week ago) - :package: Containers used for Continous Integration jobs (automated testing)
