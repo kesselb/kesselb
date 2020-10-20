@@ -5,7 +5,7 @@
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 week ago)
 - [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (1 week ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 week ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 week ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (2 weeks ago)
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app (2 weeks ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (2 weeks ago)
 - [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media (2 weeks ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.18.0](https://github.com/vimeo/psalm/releases/tag/3.18.0), today) - A static analysis tool for finding errors in PHP applications
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.5](https://github.com/nextcloud/news/releases/tag/15.0.5), 5 days ago) - :newspaper: RSS/Atom feed reader
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.0.0](https://github.com/vimeo/psalm/releases/tag/4.0.0), today) - A static analysis tool for finding errors in PHP applications
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.5](https://github.com/nextcloud/news/releases/tag/15.0.5), 6 days ago) - :newspaper: RSS/Atom feed reader
 - [laravel/homestead](https://github.com/laravel/homestead) ([v10.14.0](https://github.com/laravel/homestead/releases/tag/v10.14.0), 1 week ago) - 
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([server-21](https://github.com/nextcloud/docker-ci/releases/tag/server-21), 1 week ago) - :package: Containers used for Continous Integration jobs (automated testing)
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.0](https://github.com/nextcloud/guests/releases/tag/v1.6.0), 1 week ago) - 🙈 Create guest users which can only see files shared with them
