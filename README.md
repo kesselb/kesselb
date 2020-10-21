@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (today)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 week ago)
-- [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (2 weeks ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 weeks ago)
+- [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (2 weeks ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (2 weeks ago)
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app (2 weeks ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (2 weeks ago)
 - [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media (2 weeks ago)
 - [nextcloud/text](https://github.com/nextcloud/text) - 📑 Collaborative document editing using Markdown (1 month ago)
 - [nextcloud/guests](https://github.com/nextcloud/guests) - 🙈 Create guest users which can only see files shared with them (1 month ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
