@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.6-rc1](https://github.com/nextcloud/news/releases/tag/15.0.6-rc1), today) - :newspaper: RSS/Atom feed reader
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.6-rc2](https://github.com/nextcloud/news/releases/tag/15.0.6-rc2), today) - :newspaper: RSS/Atom feed reader
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.1](https://github.com/nextcloud/guests/releases/tag/v1.6.1), today) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.1](https://github.com/nextcloud/server/releases/tag/v20.0.1), today) - ☁️ Nextcloud server, a safe home for all your data
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.3.0](https://github.com/laravel/homestead/releases/tag/v11.3.0), 1 day ago) - 
