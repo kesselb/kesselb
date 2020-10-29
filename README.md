@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([androidBase-4](https://github.com/nextcloud/docker-ci/releases/tag/androidBase-4), today) - :package: Containers used for Continous Integration jobs (automated testing)
+- [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), today) - :package: Containers used for Continous Integration jobs (automated testing)
 - [laravel/homestead](https://github.com/laravel/homestead) ([11.3.2](https://github.com/laravel/homestead/releases/tag/11.3.2), today) - 
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.0.6](https://github.com/nextcloud/news/releases/tag/15.0.6), 3 days ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.1](https://github.com/nextcloud/guests/releases/tag/v1.6.1), 5 days ago) - 🙈 Create guest users which can only see files shared with them
