@@ -15,13 +15,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.1.0](https://github.com/vimeo/psalm/releases/tag/4.1.0), today) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 1 day ago) - :package: Containers used for Continous Integration jobs (automated testing)
 - [laravel/homestead](https://github.com/laravel/homestead) ([11.3.2](https://github.com/laravel/homestead/releases/tag/11.3.2), 1 day ago) - 
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.0.6](https://github.com/nextcloud/news/releases/tag/15.0.6), 4 days ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.1](https://github.com/nextcloud/guests/releases/tag/v1.6.1), 6 days ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.1](https://github.com/nextcloud/server/releases/tag/v20.0.1), 6 days ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.1](https://github.com/nextcloud/spreed/releases/tag/v10.0.1), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([3.18.2](https://github.com/vimeo/psalm/releases/tag/3.18.2), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.1.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.1.0), 3 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.10](https://github.com/alexdebril/feed-io/releases/tag/v4.7.10), 1 month ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.3](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.3), 1 month ago) - Integrate Keeweb into Nextcloud
