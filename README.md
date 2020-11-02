@@ -15,11 +15,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.1.1](https://github.com/vimeo/psalm/releases/tag/4.1.1), today) - A static analysis tool for finding errors in PHP applications
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.3.3](https://github.com/laravel/homestead/releases/tag/v11.3.3), 1 day ago) - 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.3](https://github.com/nextcloud/desktop/releases/tag/v3.0.3), 3 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.14.0-01), 3 days ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.0-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.0-01), 3 days ago) - ☎️ Nextcloud Android library
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.1.0](https://github.com/vimeo/psalm/releases/tag/4.1.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 4 days ago) - :package: Containers used for Continous Integration jobs (automated testing)
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.0.6](https://github.com/nextcloud/news/releases/tag/15.0.6), 1 week ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.1](https://github.com/nextcloud/guests/releases/tag/v1.6.1), 1 week ago) - 🙈 Create guest users which can only see files shared with them
