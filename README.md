@@ -15,13 +15,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.0-rc1](https://github.com/nextcloud/news/releases/tag/15.1.0-rc1), today) - :newspaper: RSS/Atom feed reader
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.1.1](https://github.com/vimeo/psalm/releases/tag/4.1.1), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.3.3](https://github.com/laravel/homestead/releases/tag/v11.3.3), 5 days ago) - 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.3](https://github.com/nextcloud/desktop/releases/tag/v3.0.3), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.14.0-01), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.0-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.0-01), 1 week ago) - ☎️ Nextcloud Android library
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 1 week ago) - :package: Containers used for Continous Integration jobs (automated testing)
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.0.6](https://github.com/nextcloud/news/releases/tag/15.0.6), 1 week ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.1](https://github.com/nextcloud/guests/releases/tag/v1.6.1), 1 week ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.1](https://github.com/nextcloud/server/releases/tag/v20.0.1), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.1](https://github.com/nextcloud/spreed/releases/tag/v10.0.1), 2 weeks ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
