@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.0-rc2](https://github.com/nextcloud/news/releases/tag/15.1.0-rc2), today) - :newspaper: RSS/Atom feed reader
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.0-02](https://github.com/nextcloud/android/releases/tag/rc-3.14.0-02), today) - 📱 Nextcloud Android app
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v6.0.9](https://github.com/nextcloud/groupfolders/releases/tag/v6.0.9), 1 day ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.0-rc1](https://github.com/nextcloud/news/releases/tag/15.1.0-rc1), 4 days ago) - :newspaper: RSS/Atom feed reader
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.1.1](https://github.com/vimeo/psalm/releases/tag/4.1.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.3.3](https://github.com/laravel/homestead/releases/tag/v11.3.3), 1 week ago) - 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.3](https://github.com/nextcloud/desktop/releases/tag/v3.0.3), 1 week ago) - 💻 Desktop sync client for Nextcloud
