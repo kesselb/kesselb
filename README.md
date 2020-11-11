@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.0-rc3](https://github.com/nextcloud/news/releases/tag/15.1.0-rc3), today) - :newspaper: RSS/Atom feed reader
 - [nextcloud/deck](https://github.com/nextcloud/deck) ([v1.2.0-beta1](https://github.com/nextcloud/deck/releases/tag/v1.2.0-beta1), today) - 🗂 Kanban-style project &amp; personal management tool for Nextcloud, similar to Trello
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.0-rc2](https://github.com/nextcloud/news/releases/tag/15.1.0-rc2), 1 day ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.0-02](https://github.com/nextcloud/android/releases/tag/rc-3.14.0-02), 1 day ago) - 📱 Nextcloud Android app
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v6.0.9](https://github.com/nextcloud/groupfolders/releases/tag/v6.0.9), 2 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.1.1](https://github.com/vimeo/psalm/releases/tag/4.1.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
