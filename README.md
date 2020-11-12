@@ -20,11 +20,11 @@
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v6.0.9](https://github.com/nextcloud/groupfolders/releases/tag/v6.0.9), 3 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.1.1](https://github.com/vimeo/psalm/releases/tag/4.1.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.3.3](https://github.com/laravel/homestead/releases/tag/v11.3.3), 1 week ago) - 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.3](https://github.com/nextcloud/desktop/releases/tag/v3.0.3), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.0-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.0-01), 1 week ago) - ☎️ Nextcloud Android library
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 2 weeks ago) - :package: Containers used for Continous Integration jobs (automated testing)
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.1](https://github.com/nextcloud/guests/releases/tag/v1.6.1), 2 weeks ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.1](https://github.com/nextcloud/server/releases/tag/v20.0.1), 2 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.1](https://github.com/nextcloud/spreed/releases/tag/v10.0.1), 2 weeks ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 
 #### 👯 Check out some of my recent followers
 
