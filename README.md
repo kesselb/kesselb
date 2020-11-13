@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v3.1.0-rc1), today) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.1.0-rc3](https://github.com/nextcloud/news/releases/tag/15.1.0-rc3), 2 days ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.0-02](https://github.com/nextcloud/android/releases/tag/rc-3.14.0-02), 3 days ago) - 📱 Nextcloud Android app
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v6.0.9](https://github.com/nextcloud/groupfolders/releases/tag/v6.0.9), 4 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
@@ -24,7 +25,6 @@
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 2 weeks ago) - :package: Containers used for Continous Integration jobs (automated testing)
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.1](https://github.com/nextcloud/guests/releases/tag/v1.6.1), 2 weeks ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.1](https://github.com/nextcloud/server/releases/tag/v20.0.1), 2 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.1](https://github.com/nextcloud/spreed/releases/tag/v10.0.1), 3 weeks ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 
 #### 👯 Check out some of my recent followers
 
