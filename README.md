@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.2.0](https://github.com/vimeo/psalm/releases/tag/4.2.0), today) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.2.1](https://github.com/vimeo/psalm/releases/tag/4.2.1), today) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.3](https://github.com/nextcloud/spreed/releases/tag/v10.0.3), 2 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.14.0](https://github.com/nextcloud/android/releases/tag/stable-3.14.0), 2 days ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.4.0](https://github.com/nextcloud/android-library/releases/tag/2.4.0), 2 days ago) - ☎️ Nextcloud Android library
