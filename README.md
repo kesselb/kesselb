@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 days ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (4 days ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 week ago)
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (1 month ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 month ago)
@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.14.1-01), today) - 📱 Nextcloud Android app
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.2.1](https://github.com/vimeo/psalm/releases/tag/4.2.1), 3 days ago) - A static analysis tool for finding errors in PHP applications
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.3](https://github.com/nextcloud/spreed/releases/tag/v10.0.3), 5 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
-- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.4.0](https://github.com/nextcloud/android-library/releases/tag/2.4.0), 5 days ago) - ☎️ Nextcloud Android library
+- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.14.1-01), 1 day ago) - 📱 Nextcloud Android app
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.2.1](https://github.com/vimeo/psalm/releases/tag/4.2.1), 4 days ago) - A static analysis tool for finding errors in PHP applications
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.3](https://github.com/nextcloud/spreed/releases/tag/v10.0.3), 6 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
+- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.4.0](https://github.com/nextcloud/android-library/releases/tag/2.4.0), 6 days ago) - ☎️ Nextcloud Android library
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v3.1.0-rc1), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.1.0-rc3](https://github.com/nextcloud/news/releases/tag/15.1.0-rc3), 1 week ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v6.0.9](https://github.com/nextcloud/groupfolders/releases/tag/v6.0.9), 2 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
