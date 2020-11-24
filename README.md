@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/deck](https://github.com/nextcloud/deck) ([v1.2.2](https://github.com/nextcloud/deck/releases/tag/v1.2.2), today) - 🗂 Kanban-style project &amp; personal management tool for Nextcloud, similar to Trello
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.14.1-01), 1 day ago) - 📱 Nextcloud Android app
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.2.1](https://github.com/vimeo/psalm/releases/tag/4.2.1), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.3](https://github.com/nextcloud/spreed/releases/tag/v10.0.3), 6 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
@@ -24,7 +25,6 @@
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v6.0.9](https://github.com/nextcloud/groupfolders/releases/tag/v6.0.9), 2 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.3.3](https://github.com/laravel/homestead/releases/tag/v11.3.3), 3 weeks ago) - 
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 3 weeks ago) - :package: Containers used for Continous Integration jobs (automated testing)
-- [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.1](https://github.com/nextcloud/guests/releases/tag/v1.6.1), 1 month ago) - 🙈 Create guest users which can only see files shared with them
 
 #### 👯 Check out some of my recent followers
 
