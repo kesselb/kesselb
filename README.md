@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.1-02](https://github.com/nextcloud/android/releases/tag/rc-3.14.1-02), today) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.1-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.1-01), today) - ☎️ Nextcloud Android library
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.4.0](https://github.com/laravel/homestead/releases/tag/v11.4.0), 1 day ago) - 
 - [nextcloud/deck](https://github.com/nextcloud/deck) ([v1.2.2](https://github.com/nextcloud/deck/releases/tag/v1.2.2), 1 day ago) - 🗂 Kanban-style project &amp; personal management tool for Nextcloud, similar to Trello
-- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.14.1-01), 2 days ago) - 📱 Nextcloud Android app
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.2.1](https://github.com/vimeo/psalm/releases/tag/4.2.1), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.3](https://github.com/nextcloud/spreed/releases/tag/v10.0.3), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v3.1.0-rc1), 1 week ago) - 💻 Desktop sync client for Nextcloud
