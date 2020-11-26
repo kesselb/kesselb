@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.0-rc2](https://github.com/nextcloud/desktop/releases/tag/v3.1.0-rc2), today) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.1-02](https://github.com/nextcloud/android/releases/tag/rc-3.14.1-02), 1 day ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.1-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.1-01), 1 day ago) - ☎️ Nextcloud Android library
 - [laravel/homestead](https://github.com/laravel/homestead) ([v11.4.0](https://github.com/laravel/homestead/releases/tag/v11.4.0), 2 days ago) - 
@@ -24,7 +25,6 @@
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v6.0.9](https://github.com/nextcloud/groupfolders/releases/tag/v6.0.9), 2 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 4 weeks ago) - :package: Containers used for Continous Integration jobs (automated testing)
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.1](https://github.com/nextcloud/guests/releases/tag/v1.6.1), 1 month ago) - 🙈 Create guest users which can only see files shared with them
-- [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.1](https://github.com/nextcloud/server/releases/tag/v20.0.1), 1 month ago) - ☁️ Nextcloud server, a safe home for all your data
 
 #### 👯 Check out some of my recent followers
 
