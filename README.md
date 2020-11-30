@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.2.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.2.0), today) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.0-rc2](https://github.com/nextcloud/desktop/releases/tag/v3.1.0-rc2), 4 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.1-02](https://github.com/nextcloud/android/releases/tag/rc-3.14.1-02), 5 days ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.1-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.1-01), 5 days ago) - ☎️ Nextcloud Android library
@@ -22,7 +23,6 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.2.1](https://github.com/vimeo/psalm/releases/tag/4.2.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v10.0.3](https://github.com/nextcloud/spreed/releases/tag/v10.0.3), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.1.0-rc3](https://github.com/nextcloud/news/releases/tag/15.1.0-rc3), 2 weeks ago) - :newspaper: RSS/Atom feed reader
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v6.0.9](https://github.com/nextcloud/groupfolders/releases/tag/v6.0.9), 3 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 1 month ago) - :package: Containers used for Continous Integration jobs (automated testing)
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.1](https://github.com/nextcloud/guests/releases/tag/v1.6.1), 1 month ago) - 🙈 Create guest users which can only see files shared with them
 
