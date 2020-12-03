@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/files_lock](https://github.com/nextcloud/files_lock) ([v19.0.0](https://github.com/nextcloud/files_lock/releases/tag/v19.0.0), today) - 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.0](https://github.com/vimeo/psalm/releases/tag/4.3.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [nextcloud/files_lock](https://github.com/nextcloud/files_lock) ([v20.0.0](https://github.com/nextcloud/files_lock/releases/tag/v20.0.0), today) - 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.1](https://github.com/vimeo/psalm/releases/tag/4.3.1), today) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.14.1](https://github.com/nextcloud/android/releases/tag/stable-3.14.1), 1 day ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.4.1](https://github.com/nextcloud/android-library/releases/tag/2.4.1), 1 day ago) - ☎️ Nextcloud Android library
 - [laravel/homestead](https://github.com/laravel/homestead) ([v10.17.0](https://github.com/laravel/homestead/releases/tag/v10.17.0), 2 days ago) - 
