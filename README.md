@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.11](https://github.com/alexdebril/feed-io/releases/tag/v4.7.11), today) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
+- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.12](https://github.com/alexdebril/feed-io/releases/tag/v4.7.12), today) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [nextcloud/server](https://github.com/nextcloud/server) ([v18.0.12](https://github.com/nextcloud/server/releases/tag/v18.0.12), 1 day ago) - ☁️ Nextcloud server, a safe home for all your data
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.2.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.2.0), 3 days ago) - Standalone signaling server for Nextcloud Talk.
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.1.0](https://github.com/nextcloud/news/releases/tag/15.1.0), 3 days ago) - :newspaper: RSS/Atom feed reader
