@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.4](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.4), today) - Integrate Keeweb into Nextcloud
 - [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.12](https://github.com/alexdebril/feed-io/releases/tag/v4.7.12), 2 days ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [nextcloud/server](https://github.com/nextcloud/server) ([v18.0.12](https://github.com/nextcloud/server/releases/tag/v18.0.12), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.2.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.2.0), 5 days ago) - Standalone signaling server for Nextcloud Talk.
@@ -24,7 +25,6 @@
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.14.1](https://github.com/nextcloud/android/releases/tag/stable-3.14.1), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.4.1](https://github.com/nextcloud/android-library/releases/tag/2.4.1), 1 week ago) - ☎️ Nextcloud Android library
 - [laravel/homestead](https://github.com/laravel/homestead) ([v10.17.0](https://github.com/laravel/homestead/releases/tag/v10.17.0), 1 week ago) - 
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.2.0](https://github.com/nextcloud/groupfolders/releases/tag/v8.2.0), 1 week ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 
 #### 👯 Check out some of my recent followers
 
