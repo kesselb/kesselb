@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v11.0.0-alpha.1](https://github.com/nextcloud/spreed/releases/tag/v11.0.0-alpha.1), today) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v11.0.0-alpha.2](https://github.com/nextcloud/spreed/releases/tag/v11.0.0-alpha.2), today) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.1.1-rc1](https://github.com/nextcloud/news/releases/tag/15.1.1-rc1), 2 days ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.4](https://github.com/nextcloud/server/releases/tag/v20.0.4), 2 days ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.0](https://github.com/nextcloud/desktop/releases/tag/v3.1.0), 4 days ago) - 💻 Desktop sync client for Nextcloud
