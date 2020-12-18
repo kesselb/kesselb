@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v11.0.0-alpha.1](https://github.com/nextcloud/spreed/releases/tag/v11.0.0-alpha.1), today) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.1.1-rc1](https://github.com/nextcloud/news/releases/tag/15.1.1-rc1), 2 days ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.4](https://github.com/nextcloud/server/releases/tag/v20.0.4), 2 days ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.0](https://github.com/nextcloud/desktop/releases/tag/v3.1.0), 4 days ago) - 💻 Desktop sync client for Nextcloud
@@ -24,7 +25,6 @@
 - [nextcloud/files_lock](https://github.com/nextcloud/files_lock) ([v20.0.0](https://github.com/nextcloud/files_lock/releases/tag/v20.0.0), 2 weeks ago) - 
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.1](https://github.com/vimeo/psalm/releases/tag/4.3.1), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.14.1](https://github.com/nextcloud/android/releases/tag/stable-3.14.1), 2 weeks ago) - 📱 Nextcloud Android app
-- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.4.1](https://github.com/nextcloud/android-library/releases/tag/2.4.1), 2 weeks ago) - ☎️ Nextcloud Android library
 
 #### 👯 Check out some of my recent followers
 
