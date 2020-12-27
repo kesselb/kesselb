@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.1-rc2](https://github.com/nextcloud/news/releases/tag/15.1.1-rc2), 4 days ago) - :newspaper: RSS/Atom feed reader
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.1](https://github.com/nextcloud/news/releases/tag/15.1.1), today) - :newspaper: RSS/Atom feed reader
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.1](https://github.com/nextcloud/desktop/releases/tag/v3.1.1), 4 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.2-02](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.2-02), 5 days ago) - ☎️ Nextcloud Android library
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.2](https://github.com/nextcloud/guests/releases/tag/v1.6.2), 6 days ago) - 🙈 Create guest users which can only see files shared with them
