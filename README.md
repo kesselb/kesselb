@@ -15,12 +15,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.1-rc2](https://github.com/nextcloud/news/releases/tag/15.1.1-rc2), 3 days ago) - :newspaper: RSS/Atom feed reader
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.1](https://github.com/nextcloud/desktop/releases/tag/v3.1.1), 3 days ago) - 💻 Desktop sync client for Nextcloud
-- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.2-02](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.2-02), 4 days ago) - ☎️ Nextcloud Android library
-- [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.2](https://github.com/nextcloud/guests/releases/tag/v1.6.2), 5 days ago) - 🙈 Create guest users which can only see files shared with them
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.1-rc2](https://github.com/nextcloud/news/releases/tag/15.1.1-rc2), 4 days ago) - :newspaper: RSS/Atom feed reader
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.1](https://github.com/nextcloud/desktop/releases/tag/v3.1.1), 4 days ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.2-02](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.2-02), 5 days ago) - ☎️ Nextcloud Android library
+- [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.2](https://github.com/nextcloud/guests/releases/tag/v1.6.2), 6 days ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.4](https://github.com/nextcloud/server/releases/tag/v20.0.4), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
-- [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.4](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.4), 1 week ago) - Integrate Keeweb into Nextcloud
+- [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.4](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.4), 2 weeks ago) - Integrate Keeweb into Nextcloud
 - [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.12](https://github.com/alexdebril/feed-io/releases/tag/v4.7.12), 2 weeks ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.2.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.2.0), 2 weeks ago) - Standalone signaling server for Nextcloud Talk.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.1](https://github.com/vimeo/psalm/releases/tag/4.3.1), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
