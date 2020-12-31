@@ -7,7 +7,7 @@
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 month ago)
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (2 months ago)
 - [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (2 months ago)
-- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app (2 months ago)
+- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app (3 months ago)
 - [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media (3 months ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (3 months ago)
 - [nextcloud/text](https://github.com/nextcloud/text) - 📑 Collaborative document editing using Markdown (3 months ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.2](https://github.com/vimeo/psalm/releases/tag/4.3.2), 1 day ago) - A static analysis tool for finding errors in PHP applications
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.1](https://github.com/nextcloud/news/releases/tag/15.1.1), 3 days ago) - :newspaper: RSS/Atom feed reader
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.2](https://github.com/vimeo/psalm/releases/tag/4.3.2), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.1](https://github.com/nextcloud/news/releases/tag/15.1.1), 4 days ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.1](https://github.com/nextcloud/desktop/releases/tag/v3.1.1), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.2-02](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.2-02), 1 week ago) - ☎️ Nextcloud Android library
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.2](https://github.com/nextcloud/guests/releases/tag/v1.6.2), 1 week ago) - 🙈 Create guest users which can only see files shared with them
