@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.2](https://github.com/vimeo/psalm/releases/tag/4.3.2), 3 days ago) - A static analysis tool for finding errors in PHP applications
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.1](https://github.com/nextcloud/news/releases/tag/15.1.1), 5 days ago) - :newspaper: RSS/Atom feed reader
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.2](https://github.com/vimeo/psalm/releases/tag/4.3.2), 4 days ago) - A static analysis tool for finding errors in PHP applications
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.1.1](https://github.com/nextcloud/news/releases/tag/15.1.1), 6 days ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.1](https://github.com/nextcloud/desktop/releases/tag/v3.1.1), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.2-02](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.2-02), 1 week ago) - ☎️ Nextcloud Android library
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.2](https://github.com/nextcloud/guests/releases/tag/v1.6.2), 1 week ago) - 🙈 Create guest users which can only see files shared with them
