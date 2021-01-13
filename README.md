@@ -15,12 +15,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.14.2](https://github.com/nextcloud/android/releases/tag/stable-3.14.2), today) - 📱 Nextcloud Android app
+- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.4.2](https://github.com/nextcloud/android-library/releases/tag/2.4.2), today) - ☎️ Nextcloud Android library
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.2.0-beta1](https://github.com/nextcloud/news/releases/tag/15.2.0-beta1), 1 day ago) - :newspaper: RSS/Atom feed reader
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 3 days ago) - 
-- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.14.2-01](https://github.com/nextcloud/android/releases/tag/rc-3.14.2-01), 1 week ago) - 📱 Nextcloud Android app
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.2](https://github.com/vimeo/psalm/releases/tag/4.3.2), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.1](https://github.com/nextcloud/desktop/releases/tag/v3.1.1), 3 weeks ago) - 💻 Desktop sync client for Nextcloud
-- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.4.2-02](https://github.com/nextcloud/android-library/releases/tag/rc-2.4.2-02), 3 weeks ago) - ☎️ Nextcloud Android library
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.2](https://github.com/nextcloud/guests/releases/tag/v1.6.2), 3 weeks ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.4](https://github.com/nextcloud/server/releases/tag/v20.0.4), 4 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.4](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.4), 1 month ago) - Integrate Keeweb into Nextcloud
