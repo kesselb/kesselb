@@ -3,21 +3,21 @@
 #### 👷 Check out what I'm currently working on
 
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) -  (4 days ago)
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (6 days ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (2 weeks ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 month ago)
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (2 months ago)
 - [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (3 months ago)
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app (3 months ago)
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (3 months ago)
 - [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media (3 months ago)
-- [nextcloud/text](https://github.com/nextcloud/text) - 📑 Collaborative document editing using Markdown (3 months ago)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.15.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.15.0-01), today) - 📱 Nextcloud Android app
+- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.5.0-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.5.0-01), today) - ☎️ Nextcloud Android library
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.4.0](https://github.com/vimeo/psalm/releases/tag/4.4.0), today) - A static analysis tool for finding errors in PHP applications
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.14.2](https://github.com/nextcloud/android/releases/tag/stable-3.14.2), 1 day ago) - 📱 Nextcloud Android app
-- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.4.2](https://github.com/nextcloud/android-library/releases/tag/2.4.2), 1 day ago) - ☎️ Nextcloud Android library
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 4 days ago) - 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.1](https://github.com/nextcloud/desktop/releases/tag/v3.1.1), 3 weeks ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.2](https://github.com/nextcloud/guests/releases/tag/v1.6.2), 3 weeks ago) - 🙈 Create guest users which can only see files shared with them
