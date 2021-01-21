@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.15](https://github.com/alexdebril/feed-io/releases/tag/v4.7.15), today) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.0](https://github.com/nextcloud/mail/releases/tag/v1.8.0), 1 day ago) - 💌 Mail app for Nextcloud
-- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.14](https://github.com/alexdebril/feed-io/releases/tag/v4.7.14), 1 day ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.4.1](https://github.com/vimeo/psalm/releases/tag/4.4.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.15.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.15.0-01), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.5.0-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.5.0-01), 1 week ago) - ☎️ Nextcloud Android library
