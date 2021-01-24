@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) -  (1 week ago)
+- [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) -  (2 weeks ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (2 weeks ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (4 weeks ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 month ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 month ago)
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (3 months ago)
@@ -15,12 +15,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.15](https://github.com/alexdebril/feed-io/releases/tag/v4.7.15), 2 days ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.0](https://github.com/nextcloud/mail/releases/tag/v1.8.0), 3 days ago) - 💌 Mail app for Nextcloud
+- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.15](https://github.com/alexdebril/feed-io/releases/tag/v4.7.15), 3 days ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.0](https://github.com/nextcloud/mail/releases/tag/v1.8.0), 4 days ago) - 💌 Mail app for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.4.1](https://github.com/vimeo/psalm/releases/tag/4.4.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.15.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.15.0-01), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.5.0-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.5.0-01), 1 week ago) - ☎️ Nextcloud Android library
-- [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 1 week ago) - 
+- [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 2 weeks ago) - 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.1](https://github.com/nextcloud/desktop/releases/tag/v3.1.1), 1 month ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.2](https://github.com/nextcloud/guests/releases/tag/v1.6.2), 1 month ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.4](https://github.com/nextcloud/server/releases/tag/v20.0.4), 1 month ago) - ☁️ Nextcloud server, a safe home for all your data
