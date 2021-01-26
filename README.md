@@ -15,8 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexdebril/feed-io](https://github.com/alexdebril/feed-io) ([v4.7.15](https://github.com/alexdebril/feed-io/releases/tag/v4.7.15), 4 days ago) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.0](https://github.com/nextcloud/mail/releases/tag/v1.8.0), 5 days ago) - 💌 Mail app for Nextcloud
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.0](https://github.com/nextcloud/mail/releases/tag/v1.8.0), 6 days ago) - 💌 Mail app for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.4.1](https://github.com/vimeo/psalm/releases/tag/4.4.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.15.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.15.0-01), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.5.0-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.5.0-01), 1 week ago) - ☎️ Nextcloud Android library
@@ -25,6 +24,7 @@
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.2](https://github.com/nextcloud/guests/releases/tag/v1.6.2), 1 month ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.4](https://github.com/nextcloud/server/releases/tag/v20.0.4), 1 month ago) - ☁️ Nextcloud server, a safe home for all your data
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.4](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.4), 1 month ago) - Integrate Keeweb into Nextcloud
+- [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.2.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.2.0), 1 month ago) - Standalone signaling server for Nextcloud Talk.
 
 #### 👯 Check out some of my recent followers
 
