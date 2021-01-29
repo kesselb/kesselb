@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 day ago)
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (2 days ago)
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) -  (2 weeks ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 month ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
@@ -10,12 +10,12 @@
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (3 months ago)
 - [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (3 months ago)
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app (3 months ago)
-- [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media (3 months ago)
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (3 months ago)
+- [nextcloud/viewer](https://github.com/nextcloud/viewer) - 🖼 Simple file viewer with slideshow for media (4 months ago)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.2](https://github.com/nextcloud/desktop/releases/tag/v3.1.2), today) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.2](https://github.com/nextcloud/desktop/releases/tag/v3.1.2), 1 day ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.0](https://github.com/nextcloud/mail/releases/tag/v1.8.0), 1 week ago) - 💌 Mail app for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.4.1](https://github.com/vimeo/psalm/releases/tag/4.4.1), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.15.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.15.0-01), 2 weeks ago) - 📱 Nextcloud Android app
