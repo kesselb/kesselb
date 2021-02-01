@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (4 days ago)
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (5 days ago)
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) -  (3 weeks ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 month ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.2.0-rc1](https://github.com/nextcloud/news/releases/tag/15.2.0-rc1), today) - :newspaper: RSS/Atom feed reader
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.2](https://github.com/nextcloud/desktop/releases/tag/v3.1.2), 3 days ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.2.0-rc1](https://github.com/nextcloud/news/releases/tag/15.2.0-rc1), 1 day ago) - :newspaper: RSS/Atom feed reader
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.2](https://github.com/nextcloud/desktop/releases/tag/v3.1.2), 4 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.0](https://github.com/nextcloud/mail/releases/tag/v1.8.0), 1 week ago) - 💌 Mail app for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.4.1](https://github.com/vimeo/psalm/releases/tag/4.4.1), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.15.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.15.0-01), 2 weeks ago) - 📱 Nextcloud Android app
