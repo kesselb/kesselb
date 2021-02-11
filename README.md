@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.5.0](https://github.com/vimeo/psalm/releases/tag/4.5.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.5.1](https://github.com/vimeo/psalm/releases/tag/4.5.1), today) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.1](https://github.com/nextcloud/mail/releases/tag/v1.8.1), 1 week ago) - 💌 Mail app for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.15.0](https://github.com/nextcloud/android/releases/tag/stable-3.15.0), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.5.1](https://github.com/nextcloud/guests/releases/tag/v1.5.1), 1 week ago) - 🙈 Create guest users which can only see files shared with them
