@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 days ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (4 days ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 week ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 week ago)
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) -  (1 month ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.5.1](https://github.com/vimeo/psalm/releases/tag/4.5.1), today) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.5.1](https://github.com/vimeo/psalm/releases/tag/4.5.1), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.1](https://github.com/nextcloud/mail/releases/tag/v1.8.1), 1 week ago) - 💌 Mail app for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.15.0](https://github.com/nextcloud/android/releases/tag/stable-3.15.0), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.5.1](https://github.com/nextcloud/guests/releases/tag/v1.5.1), 1 week ago) - 🙈 Create guest users which can only see files shared with them
