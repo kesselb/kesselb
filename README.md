@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (today)
-- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 day ago)
-- [icewind1991/notify_push-client](https://github.com/icewind1991/notify_push-client) - A javascript client for notify_push events (3 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (2 days ago)
+- [icewind1991/notify_push-client](https://github.com/icewind1991/notify_push-client) - A javascript client for notify_push events (4 days ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (2 weeks ago)
 - [horde/ManageSieve](https://github.com/horde/ManageSieve) - Client library for ManageSieve (3 weeks ago)
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) -  (1 month ago)
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.15.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.15.1-01), 1 day ago) - 📱 Nextcloud Android app
-- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.5.1-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.5.1-01), 1 day ago) - ☎️ Nextcloud Android library
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.3](https://github.com/nextcloud/mail/releases/tag/v1.8.3), 6 days ago) - 💌 Mail app for Nextcloud
+- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.15.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.15.1-01), 2 days ago) - 📱 Nextcloud Android app
+- [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.5.1-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.5.1-01), 2 days ago) - ☎️ Nextcloud Android library
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.3](https://github.com/nextcloud/mail/releases/tag/v1.8.3), 1 week ago) - 💌 Mail app for Nextcloud
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.3](https://github.com/nextcloud/desktop/releases/tag/v3.1.3), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.1](https://github.com/vimeo/psalm/releases/tag/4.6.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.5](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.5), 1 week ago) - Integrate Keeweb into Nextcloud
