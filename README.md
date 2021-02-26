@@ -15,11 +15,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.2](https://github.com/vimeo/psalm/releases/tag/4.6.2), today) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.15.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.15.1-01), 2 days ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.5.1-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.5.1-01), 2 days ago) - ☎️ Nextcloud Android library
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.8.3](https://github.com/nextcloud/mail/releases/tag/v1.8.3), 1 week ago) - 💌 Mail app for Nextcloud
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.3](https://github.com/nextcloud/desktop/releases/tag/v3.1.3), 1 week ago) - 💻 Desktop sync client for Nextcloud
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.1](https://github.com/vimeo/psalm/releases/tag/4.6.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) ([v0.6.5](https://github.com/jhass/nextcloud-keeweb/releases/tag/v0.6.5), 1 week ago) - Integrate Keeweb into Nextcloud
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.5.1](https://github.com/nextcloud/guests/releases/tag/v1.5.1), 3 weeks ago) - 🙈 Create guest users which can only see files shared with them
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 1 month ago) - 
