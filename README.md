@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (today)
+- [nextcloud/updater](https://github.com/nextcloud/updater) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date (today)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (2 days ago)
 - [icewind1991/notify_push-client](https://github.com/icewind1991/notify_push-client) - A javascript client for notify_push events (4 days ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (2 weeks ago)
 - [horde/ManageSieve](https://github.com/horde/ManageSieve) - Client library for ManageSieve (3 weeks ago)
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) -  (1 month ago)
-- [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (2 months ago)
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (4 months ago)
 - [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (4 months ago)
-- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
