@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (today)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (4 days ago)
 - [nextcloud/updater](https://github.com/nextcloud/updater) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date (4 days ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (5 days ago)
-- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (6 days ago)
 - [icewind1991/notify_push-client](https://github.com/icewind1991/notify_push-client) - A javascript client for notify_push events (1 week ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 weeks ago)
 - [horde/ManageSieve](https://github.com/horde/ManageSieve) - Client library for ManageSieve (4 weeks ago)
