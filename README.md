@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v.3.3.1](https://github.com/icewind1991/SMB/releases/tag/v.3.3.1), today) - PHP wrapper for smbclient
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.1](https://github.com/nextcloud/mail/releases/tag/v1.9.1), today) - 💌 Mail app for Nextcloud
-- [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.3.0](https://github.com/icewind1991/SMB/releases/tag/v3.3.0), 1 day ago) - PHP wrapper for smbclient
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v9.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v9.0.0), 5 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.2](https://github.com/vimeo/psalm/releases/tag/4.6.2), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.15.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.15.1-01), 1 week ago) - 📱 Nextcloud Android app
