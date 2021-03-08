@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (today)
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (4 days ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (6 days ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (6 days ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 week ago)
 - [nextcloud/updater](https://github.com/nextcloud/updater) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date (1 week ago)
