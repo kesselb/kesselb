@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (today)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 day ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 days ago)
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (6 days ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 week ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 week ago)
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.0](https://github.com/icewind1991/SMB/releases/tag/v3.4.0), today) - PHP wrapper for smbclient
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.15.1](https://github.com/nextcloud/android/releases/tag/stable-3.15.1), today) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.5.1](https://github.com/nextcloud/android-library/releases/tag/2.5.1), today) - ☎️ Nextcloud Android library
-- [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.3.1](https://github.com/icewind1991/SMB/releases/tag/v3.3.1), 6 days ago) - PHP wrapper for smbclient
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.1](https://github.com/nextcloud/mail/releases/tag/v1.9.1), 1 week ago) - 💌 Mail app for Nextcloud
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v9.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v9.0.0), 1 week ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.2](https://github.com/vimeo/psalm/releases/tag/4.6.2), 1 week ago) - A static analysis tool for finding errors in PHP applications
