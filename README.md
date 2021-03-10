@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.15.1](https://github.com/nextcloud/android/releases/tag/stable-3.15.1), today) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([2.5.1](https://github.com/nextcloud/android-library/releases/tag/2.5.1), today) - ☎️ Nextcloud Android library
-- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.15.1-02](https://github.com/nextcloud/android/releases/tag/rc-3.15.1-02), 6 days ago) - 📱 Nextcloud Android app
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.3.1](https://github.com/icewind1991/SMB/releases/tag/v3.3.1), 6 days ago) - PHP wrapper for smbclient
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.1](https://github.com/nextcloud/mail/releases/tag/v1.9.1), 1 week ago) - 💌 Mail app for Nextcloud
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v9.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v9.0.0), 1 week ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
