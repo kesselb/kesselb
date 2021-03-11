@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (today)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (2 days ago)
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (1 week ago)
-- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 week ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 week ago)
 - [nextcloud/updater](https://github.com/nextcloud/updater) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date (1 week ago)
 - [icewind1991/notify_push-client](https://github.com/icewind1991/notify_push-client) - A javascript client for notify_push events (2 weeks ago)
