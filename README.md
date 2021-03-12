@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.2](https://github.com/nextcloud/mail/releases/tag/v1.9.2), 1 day ago) - 💌 Mail app for Nextcloud
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.3](https://github.com/nextcloud/mail/releases/tag/v1.9.3), today) - 💌 Mail app for Nextcloud
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v3.2.0-rc1), 1 day ago) - 💻 Desktop sync client for Nextcloud
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.0](https://github.com/icewind1991/SMB/releases/tag/v3.4.0), 2 days ago) - PHP wrapper for smbclient
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.15.1](https://github.com/nextcloud/android/releases/tag/stable-3.15.1), 2 days ago) - 📱 Nextcloud Android app
