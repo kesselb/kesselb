@@ -15,12 +15,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.16.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.16.0-01), today) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.6.0-01](https://github.com/nextcloud/android-library/releases/tag/rc-2.6.0-01), today) - ☎️ Nextcloud Android library
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.3](https://github.com/vimeo/psalm/releases/tag/4.6.3), 2 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.3](https://github.com/nextcloud/mail/releases/tag/v1.9.3), 4 days ago) - 💌 Mail app for Nextcloud
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v3.2.0-rc1), 5 days ago) - 💻 Desktop sync client for Nextcloud
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.0](https://github.com/icewind1991/SMB/releases/tag/v3.4.0), 6 days ago) - PHP wrapper for smbclient
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.15.1](https://github.com/nextcloud/android/releases/tag/stable-3.15.1), 6 days ago) - 📱 Nextcloud Android app
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v9.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v9.0.0), 2 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.5.1](https://github.com/nextcloud/guests/releases/tag/v1.5.1), 1 month ago) - 🙈 Create guest users which can only see files shared with them
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 2 months ago) - 
