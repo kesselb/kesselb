@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.4](https://github.com/nextcloud/mail/releases/tag/v1.9.4), 1 day ago) - 💌 Mail app for Nextcloud
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0-rc2](https://github.com/nextcloud/desktop/releases/tag/v3.2.0-rc2), 1 day ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.4](https://github.com/nextcloud/mail/releases/tag/v1.9.4), 2 days ago) - 💌 Mail app for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0-rc2](https://github.com/nextcloud/desktop/releases/tag/v3.2.0-rc2), 2 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.16.0-02](https://github.com/nextcloud/android/releases/tag/rc-3.16.0-02), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.6.0-02](https://github.com/nextcloud/android-library/releases/tag/rc-2.6.0-02), 1 week ago) - ☎️ Nextcloud Android library
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.4](https://github.com/vimeo/psalm/releases/tag/4.6.4), 1 week ago) - A static analysis tool for finding errors in PHP applications
