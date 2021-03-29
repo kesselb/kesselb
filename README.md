@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) - :book: A PDF viewer for Nextcloud (1 week ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 week ago)
+- [nextcloud/files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) - :book: A PDF viewer for Nextcloud (1 week ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 week ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (2 weeks ago)
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (3 weeks ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.4](https://github.com/nextcloud/mail/releases/tag/v1.9.4), 3 days ago) - 💌 Mail app for Nextcloud
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0-rc2](https://github.com/nextcloud/desktop/releases/tag/v3.2.0-rc2), 3 days ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.4](https://github.com/nextcloud/mail/releases/tag/v1.9.4), 4 days ago) - 💌 Mail app for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0-rc2](https://github.com/nextcloud/desktop/releases/tag/v3.2.0-rc2), 4 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.16.0-02](https://github.com/nextcloud/android/releases/tag/rc-3.16.0-02), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.6.0-02](https://github.com/nextcloud/android-library/releases/tag/rc-2.6.0-02), 1 week ago) - ☎️ Nextcloud Android library
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.4](https://github.com/vimeo/psalm/releases/tag/4.6.4), 1 week ago) - A static analysis tool for finding errors in PHP applications
