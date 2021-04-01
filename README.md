@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0-rc3](https://github.com/nextcloud/desktop/releases/tag/v3.2.0-rc3), today) - 💻 Desktop sync client for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.0](https://github.com/vimeo/psalm/releases/tag/4.7.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.4](https://github.com/nextcloud/mail/releases/tag/v1.9.4), 1 week ago) - 💌 Mail app for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.16.0-02](https://github.com/nextcloud/android/releases/tag/rc-3.16.0-02), 1 week ago) - 📱 Nextcloud Android app
@@ -24,7 +25,6 @@
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.5.1](https://github.com/nextcloud/guests/releases/tag/v1.5.1), 1 month ago) - 🙈 Create guest users which can only see files shared with them
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 2 months ago) - 
 - [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.4](https://github.com/nextcloud/server/releases/tag/v20.0.4), 3 months ago) - ☁️ Nextcloud server, a safe home for all your data
-- [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.2.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.2.0), 3 months ago) - Standalone signaling server for Nextcloud Talk.
 
 #### 👯 Check out some of my recent followers
 
