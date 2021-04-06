@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.4.0-beta4](https://github.com/nextcloud/news/releases/tag/15.4.0-beta4), today) - :newspaper: RSS/Atom feed reader
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0-rc3](https://github.com/nextcloud/desktop/releases/tag/v3.2.0-rc3), 5 days ago) - 💻 Desktop sync client for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.0](https://github.com/vimeo/psalm/releases/tag/4.7.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.4](https://github.com/nextcloud/mail/releases/tag/v1.9.4), 1 week ago) - 💌 Mail app for Nextcloud
@@ -24,7 +25,6 @@
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v9.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v9.0.0), 1 month ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.5.1](https://github.com/nextcloud/guests/releases/tag/v1.5.1), 2 months ago) - 🙈 Create guest users which can only see files shared with them
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 2 months ago) - 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v20.0.4](https://github.com/nextcloud/server/releases/tag/v20.0.4), 3 months ago) - ☁️ Nextcloud server, a safe home for all your data
 
 #### 👯 Check out some of my recent followers
 
