@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0](https://github.com/nextcloud/desktop/releases/tag/v3.2.0), today) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v2.0.0](https://github.com/nextcloud/guests/releases/tag/v2.0.0), 1 day ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v21.0.1](https://github.com/nextcloud/server/releases/tag/v21.0.1), 4 days ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.5](https://github.com/nextcloud/mail/releases/tag/v1.9.5), 5 days ago) - 💌 Mail app for Nextcloud
@@ -24,7 +25,6 @@
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.0](https://github.com/icewind1991/SMB/releases/tag/v3.4.0), 1 month ago) - PHP wrapper for smbclient
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v9.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v9.0.0), 1 month ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 3 months ago) - 
-- [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.2.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.2.0), 4 months ago) - Standalone signaling server for Nextcloud Talk.
 
 #### 👯 Check out some of my recent followers
 
