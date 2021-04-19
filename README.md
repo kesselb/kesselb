@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.4.0-rc1](https://github.com/nextcloud/news/releases/tag/15.4.0-rc1), today) - :newspaper: RSS/Atom feed reader
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0](https://github.com/nextcloud/desktop/releases/tag/v3.2.0), 6 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v2.0.0](https://github.com/nextcloud/guests/releases/tag/v2.0.0), 1 week ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v21.0.1](https://github.com/nextcloud/server/releases/tag/v21.0.1), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
@@ -24,7 +25,6 @@
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.6.0-02](https://github.com/nextcloud/android-library/releases/tag/rc-2.6.0-02), 1 month ago) - ☎️ Nextcloud Android library
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.0](https://github.com/icewind1991/SMB/releases/tag/v3.4.0), 1 month ago) - PHP wrapper for smbclient
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v9.0.0](https://github.com/nextcloud/groupfolders/releases/tag/v9.0.0), 1 month ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
-- [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 3 months ago) - 
 
 #### 👯 Check out some of my recent followers
 
