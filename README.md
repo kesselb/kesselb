@@ -5,7 +5,7 @@
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 week ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 week ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 week ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 weeks ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 weeks ago)
 - [nextcloud/files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) - :book: A PDF viewer for Nextcloud (1 month ago)
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (1 month ago)
 - [nextcloud/updater](https://github.com/nextcloud/updater) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date (1 month ago)
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.1](https://github.com/icewind1991/SMB/releases/tag/v3.4.1), today) - PHP wrapper for smbclient
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.4.0-rc1](https://github.com/nextcloud/news/releases/tag/15.4.0-rc1), today) - :newspaper: RSS/Atom feed reader
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0](https://github.com/nextcloud/desktop/releases/tag/v3.2.0), 6 days ago) - 💻 Desktop sync client for Nextcloud
+- [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.1](https://github.com/icewind1991/SMB/releases/tag/v3.4.1), 1 day ago) - PHP wrapper for smbclient
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.4.0-rc1](https://github.com/nextcloud/news/releases/tag/15.4.0-rc1), 1 day ago) - :newspaper: RSS/Atom feed reader
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0](https://github.com/nextcloud/desktop/releases/tag/v3.2.0), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v2.0.0](https://github.com/nextcloud/guests/releases/tag/v2.0.0), 1 week ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v21.0.1](https://github.com/nextcloud/server/releases/tag/v21.0.1), 1 week ago) - ☁️ Nextcloud server, a safe home for all your data
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.5](https://github.com/nextcloud/mail/releases/tag/v1.9.5), 1 week ago) - 💌 Mail app for Nextcloud
