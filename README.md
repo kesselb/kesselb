@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (4 days ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 week ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (2 weeks ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (2 weeks ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.1](https://github.com/icewind1991/SMB/releases/tag/v3.4.1), 5 days ago) - PHP wrapper for smbclient
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.4.0-rc1](https://github.com/nextcloud/news/releases/tag/15.4.0-rc1), 5 days ago) - :newspaper: RSS/Atom feed reader
+- [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.1](https://github.com/icewind1991/SMB/releases/tag/v3.4.1), 6 days ago) - PHP wrapper for smbclient
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.4.0-rc1](https://github.com/nextcloud/news/releases/tag/15.4.0-rc1), 6 days ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0](https://github.com/nextcloud/desktop/releases/tag/v3.2.0), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v2.0.0](https://github.com/nextcloud/guests/releases/tag/v2.0.0), 1 week ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v21.0.1](https://github.com/nextcloud/server/releases/tag/v21.0.1), 2 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
