@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v8.2.1](https://github.com/nextcloud/groupfolders/releases/tag/v8.2.1), today) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v7.1.2](https://github.com/nextcloud/groupfolders/releases/tag/v7.1.2), today) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.1](https://github.com/vimeo/psalm/releases/tag/4.7.1), 2 days ago) - A static analysis tool for finding errors in PHP applications
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.1](https://github.com/icewind1991/SMB/releases/tag/v3.4.1), 1 week ago) - PHP wrapper for smbclient
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.4.0-rc1](https://github.com/nextcloud/news/releases/tag/15.4.0-rc1), 1 week ago) - :newspaper: RSS/Atom feed reader
