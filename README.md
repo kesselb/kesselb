@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/news](https://github.com/nextcloud/news) ([15.4.0](https://github.com/nextcloud/news/releases/tag/15.4.0), today) - :newspaper: RSS/Atom feed reader
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v7.1.2](https://github.com/nextcloud/groupfolders/releases/tag/v7.1.2), 1 day ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.1](https://github.com/vimeo/psalm/releases/tag/4.7.1), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.1](https://github.com/icewind1991/SMB/releases/tag/v3.4.1), 1 week ago) - PHP wrapper for smbclient
-- [nextcloud/news](https://github.com/nextcloud/news) ([15.4.0-rc1](https://github.com/nextcloud/news/releases/tag/15.4.0-rc1), 1 week ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0](https://github.com/nextcloud/desktop/releases/tag/v3.2.0), 2 weeks ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v2.0.0](https://github.com/nextcloud/guests/releases/tag/v2.0.0), 2 weeks ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v21.0.1](https://github.com/nextcloud/server/releases/tag/v21.0.1), 2 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
