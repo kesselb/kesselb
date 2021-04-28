@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (today)
-- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 day ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (2 days ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (2 weeks ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (2 weeks ago)
 - [nextcloud/files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) - :book: A PDF viewer for Nextcloud (1 month ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v7.1.2](https://github.com/nextcloud/groupfolders/releases/tag/v7.1.2), today) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.1](https://github.com/vimeo/psalm/releases/tag/4.7.1), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v7.1.2](https://github.com/nextcloud/groupfolders/releases/tag/v7.1.2), 1 day ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.1](https://github.com/vimeo/psalm/releases/tag/4.7.1), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.1](https://github.com/icewind1991/SMB/releases/tag/v3.4.1), 1 week ago) - PHP wrapper for smbclient
 - [nextcloud/news](https://github.com/nextcloud/news) ([15.4.0-rc1](https://github.com/nextcloud/news/releases/tag/15.4.0-rc1), 1 week ago) - :newspaper: RSS/Atom feed reader
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0](https://github.com/nextcloud/desktop/releases/tag/v3.2.0), 2 weeks ago) - 💻 Desktop sync client for Nextcloud
