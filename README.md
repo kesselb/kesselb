@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.1](https://github.com/nextcloud/desktop/releases/tag/v3.2.1), today) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v7.1.2](https://github.com/nextcloud/groupfolders/releases/tag/v7.1.2), 2 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.1](https://github.com/vimeo/psalm/releases/tag/4.7.1), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.1](https://github.com/icewind1991/SMB/releases/tag/v3.4.1), 1 week ago) - PHP wrapper for smbclient
@@ -24,7 +25,6 @@
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.16.0-02](https://github.com/nextcloud/android/releases/tag/rc-3.16.0-02), 1 month ago) - 📱 Nextcloud Android app
 - [nextcloud/android-library](https://github.com/nextcloud/android-library) ([rc-2.6.0-02](https://github.com/nextcloud/android-library/releases/tag/rc-2.6.0-02), 1 month ago) - ☎️ Nextcloud Android library
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 3 months ago) - 
-- [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) ([v0.2.0](https://github.com/strukturag/nextcloud-spreed-signaling/releases/tag/v0.2.0), 4 months ago) - Standalone signaling server for Nextcloud Talk.
 
 #### 👯 Check out some of my recent followers
 
