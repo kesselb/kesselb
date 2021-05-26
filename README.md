@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (today)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 day ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 weeks ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 month ago)
 - [nextcloud/files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) - :book: A PDF viewer for Nextcloud (2 months ago)
