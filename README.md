@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.16.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.16.1-01), today) - 📱 Nextcloud Android app
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.3](https://github.com/vimeo/psalm/releases/tag/4.7.3), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.3](https://github.com/nextcloud/guests/releases/tag/v1.6.3), 1 week ago) - 🙈 Create guest users which can only see files shared with them
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.16.0](https://github.com/nextcloud/android/releases/tag/stable-3.16.0), 3 weeks ago) - 📱 Nextcloud Android app
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.1](https://github.com/nextcloud/desktop/releases/tag/v3.2.1), 4 weeks ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v7.1.2](https://github.com/nextcloud/groupfolders/releases/tag/v7.1.2), 1 month ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.1](https://github.com/icewind1991/SMB/releases/tag/v3.4.1), 1 month ago) - PHP wrapper for smbclient
