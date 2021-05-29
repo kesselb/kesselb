@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (today)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 days ago)
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 day ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 days ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 weeks ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 month ago)
 - [nextcloud/files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) - :book: A PDF viewer for Nextcloud (2 months ago)
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.0-alpha.4](https://github.com/nextcloud/mail/releases/tag/v1.10.0-alpha.4), today) - 💌 Mail app for Nextcloud
-- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.16.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.16.1-01), 1 day ago) - 📱 Nextcloud Android app
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.3](https://github.com/vimeo/psalm/releases/tag/4.7.3), 4 days ago) - A static analysis tool for finding errors in PHP applications
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.0-alpha.4](https://github.com/nextcloud/mail/releases/tag/v1.10.0-alpha.4), 1 day ago) - 💌 Mail app for Nextcloud
+- [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.16.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.16.1-01), 2 days ago) - 📱 Nextcloud Android app
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.3](https://github.com/vimeo/psalm/releases/tag/4.7.3), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.3](https://github.com/nextcloud/guests/releases/tag/v1.6.3), 2 weeks ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v7.1.2](https://github.com/nextcloud/groupfolders/releases/tag/v7.1.2), 1 month ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [icewind1991/SMB](https://github.com/icewind1991/SMB) ([v3.4.1](https://github.com/icewind1991/SMB/releases/tag/v3.4.1), 1 month ago) - PHP wrapper for smbclient
