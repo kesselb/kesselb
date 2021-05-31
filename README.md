@@ -4,7 +4,7 @@
 
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 day ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 day ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (5 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (4 weeks ago)
 - [nextcloud/files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) - :book: A PDF viewer for Nextcloud (2 months ago)
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (2 months ago)
@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.2](https://github.com/nextcloud/desktop/releases/tag/v3.2.2), today) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.0-alpha.4](https://github.com/nextcloud/mail/releases/tag/v1.10.0-alpha.4), 3 days ago) - 💌 Mail app for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.16.1-01](https://github.com/nextcloud/android/releases/tag/rc-3.16.1-01), 4 days ago) - 📱 Nextcloud Android app
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.3](https://github.com/vimeo/psalm/releases/tag/4.7.3), 1 week ago) - A static analysis tool for finding errors in PHP applications
@@ -24,7 +25,6 @@
 - [nextcloud/server](https://github.com/nextcloud/server) ([v21.0.1](https://github.com/nextcloud/server/releases/tag/v21.0.1), 1 month ago) - ☁️ Nextcloud server, a safe home for all your data
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 4 months ago) - 
 - [nextcloud/text](https://github.com/nextcloud/text) ([v1.0.2](https://github.com/nextcloud/text/releases/tag/v1.0.2), 2 years ago) - 📑 Collaborative document editing using Markdown
-- [nextcloud/updater](https://github.com/nextcloud/updater) ([1.0.3](https://github.com/nextcloud/updater/releases/tag/1.0.3), 4 years ago) - :arrows_counterclockwise: The updater app to keep your Nextcloud up-to-date
 
 #### 👯 Check out some of my recent followers
 
