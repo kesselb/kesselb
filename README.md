@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.0-alpha.6](https://github.com/nextcloud/mail/releases/tag/v1.10.0-alpha.6), 1 week ago) - 💌 Mail app for Nextcloud
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([1.10.0-alpha.7](https://github.com/nextcloud/mail/releases/tag/1.10.0-alpha.7), today) - 💌 Mail app for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.16.1](https://github.com/nextcloud/android/releases/tag/stable-3.16.1), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.2](https://github.com/nextcloud/desktop/releases/tag/v3.2.2), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.3](https://github.com/vimeo/psalm/releases/tag/4.7.3), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
