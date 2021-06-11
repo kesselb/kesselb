@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (today)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 week ago)
 - [nextcloud/cdav-library](https://github.com/nextcloud/cdav-library) - :date: 📇 CalDAV and CardDAV client library for JavaScript (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 week ago)
