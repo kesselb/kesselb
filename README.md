@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (2 days ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 days ago)
-- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (4 days ago)
-- [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (4 days ago)
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (3 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 days ago)
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (5 days ago)
+- [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (5 days ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (2 weeks ago)
 - [nextcloud/cdav-library](https://github.com/nextcloud/cdav-library) - :date: 📇 CalDAV and CardDAV client library for JavaScript (2 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 weeks ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v10.0.0-beta1](https://github.com/nextcloud/groupfolders/releases/tag/v10.0.0-beta1), 1 day ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v10.0.0-beta1](https://github.com/nextcloud/groupfolders/releases/tag/v10.0.0-beta1), 2 days ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([1.10.0-alpha.7](https://github.com/nextcloud/mail/releases/tag/1.10.0-alpha.7), 1 week ago) - 💌 Mail app for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.16.1](https://github.com/nextcloud/android/releases/tag/stable-3.16.1), 2 weeks ago) - 📱 Nextcloud Android app
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.2](https://github.com/nextcloud/desktop/releases/tag/v3.2.2), 2 weeks ago) - 💻 Desktop sync client for Nextcloud
