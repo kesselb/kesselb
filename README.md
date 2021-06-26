@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/privacy](https://github.com/nextcloud/privacy) - 🔑 The privacy center shows you where your data is stored and who can access it, either because you shared with them or because they are administrators. (today)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 days ago)
-- [Cisco-Talos/clamav-documentation](https://github.com/Cisco-Talos/clamav-documentation) - ClamAV Documentation (4 days ago)
+- [nextcloud/privacy](https://github.com/nextcloud/privacy) - 🔑 The privacy center shows you where your data is stored and who can access it, either because you shared with them or because they are administrators. (1 day ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (4 days ago)
+- [Cisco-Talos/clamav-documentation](https://github.com/Cisco-Talos/clamav-documentation) - ClamAV Documentation (5 days ago)
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (1 week ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 week ago)
 - [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (1 week ago)
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.3](https://github.com/nextcloud/desktop/releases/tag/v3.2.3), today) - 💻 Desktop sync client for Nextcloud
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.0-RC.1](https://github.com/nextcloud/mail/releases/tag/v1.10.0-RC.1), 3 days ago) - 💌 Mail app for Nextcloud
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 5 days ago) - A static analysis tool for finding errors in PHP applications
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.3](https://github.com/nextcloud/desktop/releases/tag/v3.2.3), 1 day ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.0-RC.1](https://github.com/nextcloud/mail/releases/tag/v1.10.0-RC.1), 4 days ago) - 💌 Mail app for Nextcloud
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 6 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v10.0.0-beta1](https://github.com/nextcloud/groupfolders/releases/tag/v10.0.0-beta1), 1 week ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.16.1](https://github.com/nextcloud/android/releases/tag/stable-3.16.1), 3 weeks ago) - 📱 Nextcloud Android app
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.3](https://github.com/nextcloud/guests/releases/tag/v1.6.3), 1 month ago) - 🙈 Create guest users which can only see files shared with them
