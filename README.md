@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.9.6](https://github.com/nextcloud/mail/releases/tag/v1.9.6), today) - 💌 Mail app for Nextcloud
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.3](https://github.com/nextcloud/desktop/releases/tag/v3.2.3), 5 days ago) - 💻 Desktop sync client for Nextcloud
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.0-RC.1](https://github.com/nextcloud/mail/releases/tag/v1.10.0-RC.1), 1 week ago) - 💌 Mail app for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v10.0.0-beta1](https://github.com/nextcloud/groupfolders/releases/tag/v10.0.0-beta1), 1 week ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.16.1](https://github.com/nextcloud/android/releases/tag/stable-3.16.1), 4 weeks ago) - 📱 Nextcloud Android app
