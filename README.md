@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.0-RC.2](https://github.com/nextcloud/mail/releases/tag/v1.10.0-RC.2), 4 days ago) - 💌 Mail app for Nextcloud
-- [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) ([v1.10.0-RC.2](https://github.com/nextcloud-releases/mail/releases/tag/v1.10.0-RC.2), 4 days ago) - 
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.0](https://github.com/nextcloud/mail/releases/tag/v1.10.0), today) - 💌 Mail app for Nextcloud
+- [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) ([v1.10.0](https://github.com/nextcloud-releases/mail/releases/tag/v1.10.0), today) - 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.3](https://github.com/nextcloud/desktop/releases/tag/v3.2.3), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v10.0.0-beta1](https://github.com/nextcloud/groupfolders/releases/tag/v10.0.0-beta1), 2 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
