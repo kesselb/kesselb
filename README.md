@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (today)
 - [nextcloud/privacy](https://github.com/nextcloud/privacy) - 🔑 The privacy center shows you where your data is stored and who can access it, either because you shared with them or because they are administrators. (1 week ago)
 - [Cisco-Talos/clamav-documentation](https://github.com/Cisco-Talos/clamav-documentation) - ClamAV Documentation (2 weeks ago)
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (2 weeks ago)
@@ -19,12 +19,12 @@
 - [nextcloud-releases/guests](https://github.com/nextcloud-releases/guests) ([v1.6.3](https://github.com/nextcloud-releases/guests/releases/tag/v1.6.3), 1 day ago) - 
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.0](https://github.com/nextcloud/mail/releases/tag/v1.10.0), 1 day ago) - 💌 Mail app for Nextcloud
 - [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) ([v1.10.0](https://github.com/nextcloud-releases/mail/releases/tag/v1.10.0), 1 day ago) - 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.3](https://github.com/nextcloud/desktop/releases/tag/v3.2.3), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v10.0.0-beta1](https://github.com/nextcloud/groupfolders/releases/tag/v10.0.0-beta1), 2 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.3](https://github.com/nextcloud/guests/releases/tag/v1.6.3), 1 month ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v21.0.1](https://github.com/nextcloud/server/releases/tag/v21.0.1), 2 months ago) - ☁️ Nextcloud server, a safe home for all your data
 - [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 5 months ago) - 
+- [nextcloud/text](https://github.com/nextcloud/text) ([v1.0.2](https://github.com/nextcloud/text/releases/tag/v1.0.2), 2 years ago) - 📑 Collaborative document editing using Markdown
 
 #### 👯 Check out some of my recent followers
 
