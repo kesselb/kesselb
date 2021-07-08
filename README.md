@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 day ago)
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud (1 day ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
 - [nextcloud/privacy](https://github.com/nextcloud/privacy) - 🔑 The privacy center shows you where your data is stored and who can access it, either because you shared with them or because they are administrators. (1 week ago)
 - [Cisco-Talos/clamav-documentation](https://github.com/Cisco-Talos/clamav-documentation) - ClamAV Documentation (2 weeks ago)
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (3 weeks ago)
-- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (3 weeks ago)
 - [juliushaertl/nextcloud-docker-dev](https://github.com/juliushaertl/nextcloud-docker-dev) - Nextcloud development environment using docker-compose (3 weeks ago)
 - [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) -  (3 weeks ago)
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins (1 month ago)
