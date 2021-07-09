@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.4](https://github.com/nextcloud/desktop/releases/tag/v3.2.4), today) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.17.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.17.0-01), 3 days ago) - 📱 Nextcloud Android app
 - [nextcloud-releases/guests](https://github.com/nextcloud-releases/guests) ([v1.6.3](https://github.com/nextcloud-releases/guests/releases/tag/v1.6.3), 4 days ago) - 
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.0](https://github.com/nextcloud/mail/releases/tag/v1.10.0), 4 days ago) - 💌 Mail app for Nextcloud
@@ -24,7 +25,6 @@
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v10.0.0-beta1](https://github.com/nextcloud/groupfolders/releases/tag/v10.0.0-beta1), 3 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.3](https://github.com/nextcloud/guests/releases/tag/v1.6.3), 1 month ago) - 🙈 Create guest users which can only see files shared with them
 - [nextcloud/server](https://github.com/nextcloud/server) ([v21.0.1](https://github.com/nextcloud/server/releases/tag/v21.0.1), 3 months ago) - ☁️ Nextcloud server, a safe home for all your data
-- [kesselb/nextcloud-3rdparty](https://github.com/kesselb/nextcloud-3rdparty) ([20.0.0](https://github.com/kesselb/nextcloud-3rdparty/releases/tag/20.0.0), 6 months ago) - 
 
 #### 👯 Check out some of my recent followers
 
