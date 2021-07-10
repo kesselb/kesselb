@@ -28,10 +28,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Novusvetus](https://github.com/Novusvetus)
 - [mohammad-jaradat](https://github.com/mohammad-jaradat)
 - [Daksol](https://github.com/Daksol)
 - [pollypolly1](https://github.com/pollypolly1)
 - [pedro-stanaka](https://github.com/pedro-stanaka)
-- [Githopp192](https://github.com/Githopp192)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
