@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
-- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (6 days ago)
-- [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud (6 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 days ago)
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 week ago)
+- [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud (1 week ago)
 - [nextcloud/privacy](https://github.com/nextcloud/privacy) - 🔑 The privacy center shows you where your data is stored and who can access it, either because you shared with them or because they are administrators. (2 weeks ago)
 - [Cisco-Talos/clamav-documentation](https://github.com/Cisco-Talos/clamav-documentation) - ClamAV Documentation (3 weeks ago)
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. (3 weeks ago)
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.1](https://github.com/nextcloud/mail/releases/tag/v1.10.1), 1 day ago) - 💌 Mail app for Nextcloud
-- [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) ([v1.10.1](https://github.com/nextcloud-releases/mail/releases/tag/v1.10.1), 1 day ago) - 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.4](https://github.com/nextcloud/desktop/releases/tag/v3.2.4), 4 days ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.1](https://github.com/nextcloud/mail/releases/tag/v1.10.1), 2 days ago) - 💌 Mail app for Nextcloud
+- [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) ([v1.10.1](https://github.com/nextcloud-releases/mail/releases/tag/v1.10.1), 2 days ago) - 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.4](https://github.com/nextcloud/desktop/releases/tag/v3.2.4), 5 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.17.0-01](https://github.com/nextcloud/android/releases/tag/rc-3.17.0-01), 1 week ago) - 📱 Nextcloud Android app
 - [nextcloud-releases/guests](https://github.com/nextcloud-releases/guests) ([v1.6.3](https://github.com/nextcloud-releases/guests/releases/tag/v1.6.3), 1 week ago) - 
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) ([v2.3.0](https://github.com/nextcloud/calendar/releases/tag/v2.3.0), 2 weeks ago) - 📆 Calendar app for Nextcloud
