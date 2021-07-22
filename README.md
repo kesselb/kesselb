@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (today)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (2 days ago)
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud (1 week ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 week ago)
@@ -16,7 +16,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) ([20.0.3](https://github.com/nextcloud/fulltextsearch_elasticsearch/releases/tag/20.0.3), 1 day ago) - 🔍 Use Elasticsearch to index the content of your Nextcloud
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.3.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v3.3.0-rc1), 3 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v12.0.1](https://github.com/nextcloud/spreed/releases/tag/v12.0.1), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) ([v2.3.1](https://github.com/nextcloud/calendar/releases/tag/v2.3.1), 1 week ago) - 📆 Calendar app for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.17.0-02](https://github.com/nextcloud/android/releases/tag/rc-3.17.0-02), 1 week ago) - 📱 Nextcloud Android app
@@ -25,6 +24,7 @@
 - [nextcloud-releases/guests](https://github.com/nextcloud-releases/guests) ([v1.6.3](https://github.com/nextcloud-releases/guests/releases/tag/v1.6.3), 2 weeks ago) - 
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 1 month ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v10.0.0-beta1](https://github.com/nextcloud/groupfolders/releases/tag/v10.0.0-beta1), 1 month ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
+- [nextcloud/guests](https://github.com/nextcloud/guests) ([v1.6.3](https://github.com/nextcloud/guests/releases/tag/v1.6.3), 2 months ago) - 🙈 Create guest users which can only see files shared with them
 
 #### 👯 Check out some of my recent followers
 
