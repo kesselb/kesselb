@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 days ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (4 days ago)
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud (1 week ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (1 week ago)
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud (2 weeks ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.3.0-rc2](https://github.com/nextcloud/desktop/releases/tag/v3.3.0-rc2), 1 day ago) - 💻 Desktop sync client for Nextcloud
-- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) ([20.0.3](https://github.com/nextcloud/fulltextsearch_elasticsearch/releases/tag/20.0.3), 2 days ago) - 🔍 Use Elasticsearch to index the content of your Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.3.0-rc2](https://github.com/nextcloud/desktop/releases/tag/v3.3.0-rc2), 2 days ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) ([20.0.3](https://github.com/nextcloud/fulltextsearch_elasticsearch/releases/tag/20.0.3), 3 days ago) - 🔍 Use Elasticsearch to index the content of your Nextcloud
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v12.0.1](https://github.com/nextcloud/spreed/releases/tag/v12.0.1), 1 week ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) ([v2.3.1](https://github.com/nextcloud/calendar/releases/tag/v2.3.1), 1 week ago) - 📆 Calendar app for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.17.0-02](https://github.com/nextcloud/android/releases/tag/rc-3.17.0-02), 1 week ago) - 📱 Nextcloud Android app
