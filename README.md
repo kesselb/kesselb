@@ -28,8 +28,8 @@
 
 #### 👯 Check out some of my recent followers
 
-- [Neustradamus](https://github.com/Neustradamus)
 - [Novusvetus](https://github.com/Novusvetus)
+- [Neustradamus](https://github.com/Neustradamus)
 - [mohammad-jaradat](https://github.com/mohammad-jaradat)
 - [Daksol](https://github.com/Daksol)
 - [pollypolly1](https://github.com/pollypolly1)
