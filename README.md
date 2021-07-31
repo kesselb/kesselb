@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.0](https://github.com/vimeo/psalm/releases/tag/4.9.0), today) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.1](https://github.com/vimeo/psalm/releases/tag/4.9.1), today) - A static analysis tool for finding errors in PHP applications
 - [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) ([v1.10.2](https://github.com/nextcloud-releases/mail/releases/tag/v1.10.2), 2 days ago) - 
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.2](https://github.com/nextcloud/mail/releases/tag/v1.10.2), 2 days ago) - 💌 Mail app for Nextcloud
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) ([v4.0.1](https://github.com/nextcloud/contacts/releases/tag/v4.0.1), 2 days ago) - 📇 Contacts app for Nextcloud
