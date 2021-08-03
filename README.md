@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.3.0](https://github.com/nextcloud/desktop/releases/tag/v3.3.0), today) - 💻 Desktop sync client for Nextcloud
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.2](https://github.com/vimeo/psalm/releases/tag/4.9.2), 2 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) ([v1.10.2](https://github.com/nextcloud-releases/mail/releases/tag/v1.10.2), 5 days ago) - 
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.2](https://github.com/nextcloud/mail/releases/tag/v1.10.2), 5 days ago) - 💌 Mail app for Nextcloud
@@ -24,7 +25,6 @@
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) ([v2.3.1](https://github.com/nextcloud/calendar/releases/tag/v2.3.1), 2 weeks ago) - 📆 Calendar app for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.17.0-02](https://github.com/nextcloud/android/releases/tag/rc-3.17.0-02), 2 weeks ago) - 📱 Nextcloud Android app
 - [nextcloud-releases/guests](https://github.com/nextcloud-releases/guests) ([v1.6.3](https://github.com/nextcloud-releases/guests/releases/tag/v1.6.3), 4 weeks ago) - 
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v10.0.0-beta1](https://github.com/nextcloud/groupfolders/releases/tag/v10.0.0-beta1), 1 month ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 
 #### 👯 Check out some of my recent followers
 
