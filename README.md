@@ -6,7 +6,7 @@
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 week ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 week ago)
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud (2 weeks ago)
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud (3 weeks ago)
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud (2 weeks ago)
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud (4 weeks ago)
 - [nextcloud/privacy](https://github.com/nextcloud/privacy) - 🔑 The privacy center shows you where your data is stored and who can access it, either because you shared with them or because they are administrators. (1 month ago)
 - [Cisco-Talos/clamav-documentation](https://github.com/Cisco-Talos/clamav-documentation) - ClamAV Documentation (1 month ago)
