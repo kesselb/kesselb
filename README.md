@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), today) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.3.1](https://github.com/nextcloud/desktop/releases/tag/v3.3.1), 3 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([rc-3.17.0-03](https://github.com/nextcloud/android/releases/tag/rc-3.17.0-03), 4 days ago) - 📱 Nextcloud Android app
 - [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) ([22.0.1](https://github.com/nextcloud/fulltextsearch_elasticsearch/releases/tag/22.0.1), 5 days ago) - 🔍 Use Elasticsearch to index the content of your Nextcloud
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.2](https://github.com/vimeo/psalm/releases/tag/4.9.2), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) ([v1.10.2](https://github.com/nextcloud-releases/mail/releases/tag/v1.10.2), 2 weeks ago) - 
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.2](https://github.com/nextcloud/mail/releases/tag/v1.10.2), 2 weeks ago) - 💌 Mail app for Nextcloud
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) ([v4.0.1](https://github.com/nextcloud/contacts/releases/tag/v4.0.1), 2 weeks ago) - 📇 Contacts app for Nextcloud
