@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nextcloud/files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) - :book: A PDF viewer for Nextcloud (today)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (5 days ago)
 - [nextcloud/updater_server](https://github.com/nextcloud/updater_server) - :repeat_one: The updater server keeps you informed about new Nextcloud updates (6 days ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 week ago)
@@ -11,7 +12,6 @@
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud (1 month ago)
 - [nextcloud/privacy](https://github.com/nextcloud/privacy) - 🔑 The privacy center shows you where your data is stored and who can access it, either because you shared with them or because they are administrators. (1 month ago)
 - [Cisco-Talos/clamav-documentation](https://github.com/Cisco-Talos/clamav-documentation) - ClamAV Documentation (1 month ago)
-- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) - 🔍 Use Elasticsearch to index the content of your Nextcloud (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
