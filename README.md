@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (today)
-- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (2 days ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (3 days ago)
-- [nextcloud/files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) - :book: A PDF viewer for Nextcloud (4 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 day ago)
+- [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (3 days ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (4 days ago)
+- [nextcloud/files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) - :book: A PDF viewer for Nextcloud (5 days ago)
 - [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) -  (1 week ago)
 - [nextcloud/updater_server](https://github.com/nextcloud/updater_server) - :repeat_one: The updater server keeps you informed about new Nextcloud updates (1 week ago)
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud (1 month ago)
@@ -15,13 +15,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v12.1.0](https://github.com/nextcloud/spreed/releases/tag/v12.1.0), today) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
-- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.17.0](https://github.com/nextcloud/android/releases/tag/stable-3.17.0), 1 day ago) - 📱 Nextcloud Android app
-- [nextcloud-releases/guests](https://github.com/nextcloud-releases/guests) ([v2.0.1](https://github.com/nextcloud-releases/guests/releases/tag/v2.0.1), 2 days ago) - 
-- [nextcloud/calendar](https://github.com/nextcloud/calendar) ([v2.3.2](https://github.com/nextcloud/calendar/releases/tag/v2.3.2), 2 days ago) - 📆 Calendar app for Nextcloud
-- [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) ([v1.10.3](https://github.com/nextcloud-releases/mail/releases/tag/v1.10.3), 3 days ago) - 
-- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.3](https://github.com/nextcloud/mail/releases/tag/v1.10.3), 3 days ago) - 💌 Mail app for Nextcloud
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), 5 days ago) - A static analysis tool for finding errors in PHP applications
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v12.1.0](https://github.com/nextcloud/spreed/releases/tag/v12.1.0), 1 day ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
+- [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.17.0](https://github.com/nextcloud/android/releases/tag/stable-3.17.0), 2 days ago) - 📱 Nextcloud Android app
+- [nextcloud-releases/guests](https://github.com/nextcloud-releases/guests) ([v2.0.1](https://github.com/nextcloud-releases/guests/releases/tag/v2.0.1), 3 days ago) - 
+- [nextcloud/calendar](https://github.com/nextcloud/calendar) ([v2.3.2](https://github.com/nextcloud/calendar/releases/tag/v2.3.2), 3 days ago) - 📆 Calendar app for Nextcloud
+- [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) ([v1.10.3](https://github.com/nextcloud-releases/mail/releases/tag/v1.10.3), 4 days ago) - 
+- [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.3](https://github.com/nextcloud/mail/releases/tag/v1.10.3), 4 days ago) - 💌 Mail app for Nextcloud
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), 6 days ago) - A static analysis tool for finding errors in PHP applications
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.3.1](https://github.com/nextcloud/desktop/releases/tag/v3.3.1), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) ([22.0.1](https://github.com/nextcloud/fulltextsearch_elasticsearch/releases/tag/22.0.1), 1 week ago) - 🔍 Use Elasticsearch to index the content of your Nextcloud
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) ([v4.0.1](https://github.com/nextcloud/contacts/releases/tag/v4.0.1), 3 weeks ago) - 📇 Contacts app for Nextcloud
