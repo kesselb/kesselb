@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nextcloud-releases/guests](https://github.com/nextcloud-releases/guests) ([v2.0.2](https://github.com/nextcloud-releases/guests/releases/tag/v2.0.2), today) - 
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v12.1.0](https://github.com/nextcloud/spreed/releases/tag/v12.1.0), 4 days ago) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
 - [nextcloud/android](https://github.com/nextcloud/android) ([stable-3.17.0](https://github.com/nextcloud/android/releases/tag/stable-3.17.0), 5 days ago) - 📱 Nextcloud Android app
-- [nextcloud-releases/guests](https://github.com/nextcloud-releases/guests) ([v2.0.1](https://github.com/nextcloud-releases/guests/releases/tag/v2.0.1), 6 days ago) - 
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) ([v2.3.2](https://github.com/nextcloud/calendar/releases/tag/v2.3.2), 6 days ago) - 📆 Calendar app for Nextcloud
 - [nextcloud-releases/mail](https://github.com/nextcloud-releases/mail) ([v1.10.3](https://github.com/nextcloud-releases/mail/releases/tag/v1.10.3), 1 week ago) - 
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.10.3](https://github.com/nextcloud/mail/releases/tag/v1.10.3), 1 week ago) - 💌 Mail app for Nextcloud
