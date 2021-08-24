@@ -2,8 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/files_antivirus](https://github.com/nextcloud/files_antivirus) - 👾 Antivirus app for Nextcloud Files (4 days ago)
+- [nextcloud/workflow_script](https://github.com/nextcloud/workflow_script) - Rule based processing of files through specified external scripts (today)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (4 days ago)
+- [nextcloud/files_antivirus](https://github.com/nextcloud/files_antivirus) - 👾 Antivirus app for Nextcloud Files (4 days ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (6 days ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 week ago)
 - [nextcloud/files_pdfviewer](https://github.com/nextcloud/files_pdfviewer) - :book: A PDF viewer for Nextcloud (1 week ago)
@@ -11,7 +12,6 @@
 - [nextcloud/updater_server](https://github.com/nextcloud/updater_server) - :repeat_one: The updater server keeps you informed about new Nextcloud updates (2 weeks ago)
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud (1 month ago)
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 📞😀 Nextcloud Talk – chat, video &amp; audio calls for Nextcloud (1 month ago)
-- [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
