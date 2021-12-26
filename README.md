@@ -4,8 +4,8 @@
 
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud (1 month ago)
 - [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 month ago)
-- [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud (1 month ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
+- [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud (2 months ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 months ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (2 months ago)
 - [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP (2 months ago)
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (2 months ago)
@@ -15,16 +15,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/contacts](https://github.com/nextcloud/contacts) ([v4.0.1](https://github.com/nextcloud/contacts/releases/tag/v4.0.1), 2 days ago) - 📇 Contacts app for Nextcloud
-- [nextcloud-releases/contacts](https://github.com/nextcloud-releases/contacts) ([v4.0.7](https://github.com/nextcloud-releases/contacts/releases/tag/v4.0.7), 3 days ago) - 
-- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) ([23.0.0](https://github.com/nextcloud/fulltextsearch_elasticsearch/releases/tag/23.0.0), 4 days ago) - 🔍 Use Elasticsearch to index the content of your Nextcloud
-- [nextcloud-releases/calendar](https://github.com/nextcloud-releases/calendar) ([v3.0.2](https://github.com/nextcloud-releases/calendar/releases/tag/v3.0.2), 4 days ago) - 
-- [sabre-io/dav](https://github.com/sabre-io/dav) ([4.3.0](https://github.com/sabre-io/dav/releases/tag/4.3.0), 5 days ago) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v13.0.1](https://github.com/nextcloud/spreed/releases/tag/v13.0.1), 6 days ago) - 🗨️ Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([v4.15.0](https://github.com/vimeo/psalm/releases/tag/v4.15.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
-- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) ([10.0.3](https://github.com/nextcloud/bookmarks/releases/tag/10.0.3), 2 weeks ago) - 🔖 Bookmark app for Nextcloud
-- [nextcloud/server](https://github.com/nextcloud/server) ([v23.0.0](https://github.com/nextcloud/server/releases/tag/v23.0.0), 2 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v11.1.0](https://github.com/nextcloud/groupfolders/releases/tag/v11.1.0), 2 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.16.0](https://github.com/vimeo/psalm/releases/tag/4.16.0), today) - A static analysis tool for finding errors in PHP applications
+- [nextcloud-releases/calendar](https://github.com/nextcloud-releases/calendar) ([v3.0.3](https://github.com/nextcloud-releases/calendar/releases/tag/v3.0.3), 5 days ago) - 
+- [nextcloud/contacts](https://github.com/nextcloud/contacts) ([v4.0.1](https://github.com/nextcloud/contacts/releases/tag/v4.0.1), 1 week ago) - 📇 Contacts app for Nextcloud
+- [nextcloud-releases/contacts](https://github.com/nextcloud-releases/contacts) ([v4.0.7](https://github.com/nextcloud-releases/contacts/releases/tag/v4.0.7), 1 week ago) - 
+- [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) ([23.0.0](https://github.com/nextcloud/fulltextsearch_elasticsearch/releases/tag/23.0.0), 1 week ago) - 🔍 Use Elasticsearch to index the content of your Nextcloud
+- [sabre-io/dav](https://github.com/sabre-io/dav) ([4.3.0](https://github.com/sabre-io/dav/releases/tag/4.3.0), 1 week ago) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v13.0.1](https://github.com/nextcloud/spreed/releases/tag/v13.0.1), 1 week ago) - 🗨️ Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
+- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) ([10.0.3](https://github.com/nextcloud/bookmarks/releases/tag/10.0.3), 3 weeks ago) - 🔖 Bookmark app for Nextcloud
+- [nextcloud/server](https://github.com/nextcloud/server) ([v23.0.0](https://github.com/nextcloud/server/releases/tag/v23.0.0), 3 weeks ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v11.1.0](https://github.com/nextcloud/groupfolders/releases/tag/v11.1.0), 3 weeks ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 
 #### 👯 Check out some of my recent followers
 
