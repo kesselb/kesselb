@@ -2,26 +2,26 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud (5 months ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (5 months ago)
-- [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud (5 months ago)
-- [nextcloud-releases/twofactor_totp](https://github.com/nextcloud-releases/twofactor_totp) -  (5 months ago)
+- [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud (6 months ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (6 months ago)
+- [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud (6 months ago)
+- [nextcloud-releases/twofactor_totp](https://github.com/nextcloud-releases/twofactor_totp) -  (6 months ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (6 months ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (6 months ago)
 - [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP (6 months ago)
 - [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (6 months ago)
-- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud (6 months ago)
+- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud (7 months ago)
 - [nextcloud/files_antivirus](https://github.com/nextcloud/files_antivirus) - 👾 Antivirus app for Nextcloud Files (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v14.0.0-rc.3](https://github.com/nextcloud/spreed/releases/tag/v14.0.0-rc.3), 2 days ago) - 🗨️ Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
-- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) ([v10.3.1](https://github.com/nextcloud/bookmarks/releases/tag/v10.3.1), 5 days ago) - 🔖 Bookmark app for Nextcloud
-- [nextcloud-releases/twofactor_totp](https://github.com/nextcloud-releases/twofactor_totp) ([v6.3.0-alpha1](https://github.com/nextcloud-releases/twofactor_totp/releases/tag/v6.3.0-alpha1), 3 weeks ago) - 
-- [nextcloud/server](https://github.com/nextcloud/server) ([v24.0.0beta1](https://github.com/nextcloud/server/releases/tag/v24.0.0beta1), 1 month ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) ([v14.0.0-rc.4](https://github.com/nextcloud/spreed/releases/tag/v14.0.0-rc.4), 2 days ago) - 🗨️ Nextcloud Talk – chat, video &amp; audio calls for Nextcloud
+- [nextcloud-releases/twofactor_totp](https://github.com/nextcloud-releases/twofactor_totp) ([v6.3.0-rc1](https://github.com/nextcloud-releases/twofactor_totp/releases/tag/v6.3.0-rc1), 2 days ago) - 
+- [nextcloud/server](https://github.com/nextcloud/server) ([v24.0.0rc3](https://github.com/nextcloud/server/releases/tag/v24.0.0rc3), 3 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) ([v10.3.1](https://github.com/nextcloud/bookmarks/releases/tag/v10.3.1), 1 week ago) - 🔖 Bookmark app for Nextcloud
 - [nextcloud-releases/contacts](https://github.com/nextcloud-releases/contacts) ([v4.1.0](https://github.com/nextcloud-releases/contacts/releases/tag/v4.1.0), 1 month ago) - 
 - [nextcloud-releases/calendar](https://github.com/nextcloud-releases/calendar) ([v3.2.2](https://github.com/nextcloud-releases/calendar/releases/tag/v3.2.2), 1 month ago) - 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 1 month ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 2 months ago) - A static analysis tool for finding errors in PHP applications
 - [sabre-io/dav](https://github.com/sabre-io/dav) ([4.3.1](https://github.com/sabre-io/dav/releases/tag/4.3.1), 3 months ago) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) ([v11.1.2](https://github.com/nextcloud/groupfolders/releases/tag/v11.1.2), 3 months ago) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) ([v4.0.1](https://github.com/nextcloud/contacts/releases/tag/v4.0.1), 4 months ago) - 📇 Contacts app for Nextcloud
