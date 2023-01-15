@@ -2,24 +2,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud (2 days ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 days ago)
-- [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud (5 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 days ago)
+- [nextcloud/calendar_resource_management](https://github.com/nextcloud/calendar_resource_management) - Resources back-end for the Nextcloud CalDAV server (2 days ago)
+- [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (2 days ago)
+- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (4 days ago)
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud (5 days ago)
-- [nextcloud/documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation (1 week ago)
-- [nextcloud/cdav-library](https://github.com/nextcloud/cdav-library) - :date: 📇 CalDAV and CardDAV client library for JavaScript (1 week ago)
-- [wp-media/wp-rocket](https://github.com/wp-media/wp-rocket) - Performance optimization plugin for WordPress (1 month ago)
-- [nextcloud/3rdparty](https://github.com/nextcloud/3rdparty) - :battery: 3rd party libraries that are needed to run Nextcloud (2 months ago)
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) - Spryker Commerce OS - Docker SDK (3 months ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 months ago)
+- [nextcloud/.github](https://github.com/nextcloud/.github) - Nextcloud workflow templates repository (6 days ago)
+- [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud (1 week ago)
+- [ChristophWurst/kitinerary-flatpak](https://github.com/ChristophWurst/kitinerary-flatpak) - php binding to invoke kitinerary-extractor via Flatpak (1 week ago)
+- [nextcloud/calendar](https://github.com/nextcloud/calendar) - 📆 Calendar app for Nextcloud (1 week ago)
+- [nextcloud/cdav-library](https://github.com/nextcloud/cdav-library) - :date: 📇 CalDAV and CardDAV client library for JavaScript (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) ([version/2022.12.2](https://github.com/goauthentik/authentik/releases/tag/version/2022.12.2), 3 days ago) - The authentication glue you need.
-- [wp-media/wp-rocket](https://github.com/wp-media/wp-rocket) ([v3.12.4](https://github.com/wp-media/wp-rocket/releases/tag/v3.12.4), 1 week ago) - Performance optimization plugin for WordPress
-- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v7.3.0](https://github.com/nextcloud/nextcloud-vue/releases/tag/v7.3.0), 2 weeks ago) - 🍱 Vue.js components for Nextcloud app development  ✌
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.52.0](https://github.com/spryker/docker-sdk/releases/tag/1.52.0), 2 weeks ago) - Spryker Commerce OS - Docker SDK
-- [nextcloud/server](https://github.com/nextcloud/server) ([v23.0.12](https://github.com/nextcloud/server/releases/tag/v23.0.12), 1 month ago) - ☁️ Nextcloud server, a safe home for all your data
+- [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue) ([v7.4.0](https://github.com/nextcloud/nextcloud-vue/releases/tag/v7.4.0), 3 days ago) - 🍱 Vue.js components for Nextcloud app development  ✌
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.53.0](https://github.com/spryker/docker-sdk/releases/tag/1.53.0), 4 days ago) - Spryker Commerce OS - Docker SDK
+- [nextcloud/server](https://github.com/nextcloud/server) ([v24.0.9rc2](https://github.com/nextcloud/server/releases/tag/v24.0.9rc2), 4 days ago) - ☁️ Nextcloud server, a safe home for all your data
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) ([version/2022.12.2](https://github.com/goauthentik/authentik/releases/tag/version/2022.12.2), 1 week ago) - The authentication glue you need.
+- [wp-media/wp-rocket](https://github.com/wp-media/wp-rocket) ([v3.12.4](https://github.com/wp-media/wp-rocket/releases/tag/v3.12.4), 2 weeks ago) - Performance optimization plugin for WordPress
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) ([v5.0.1](https://github.com/nextcloud/contacts/releases/tag/v5.0.1), 2 months ago) - 📇 Contacts app for Nextcloud
 - [nextcloud/mail](https://github.com/nextcloud/mail) ([v1.13.0](https://github.com/nextcloud/mail/releases/tag/v1.13.0), 7 months ago) - 💌 Mail app for Nextcloud
 - [nextcloud/calendar](https://github.com/nextcloud/calendar) ([v3.3.2](https://github.com/nextcloud/calendar/releases/tag/v3.3.2), 7 months ago) - 📆 Calendar app for Nextcloud
